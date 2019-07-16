@@ -17,7 +17,16 @@ I am a Ph.D. Candidate in Political Science at Columbia University. I conduct th
     <div class="row-fluid">
         <div class="span5">
             Jorge Mangonnet<br/>
-            Email: jgm2159 (at) columbia (dot) edu<br/>
+            <a href="https://polisci.columbia.edu">Department of Political Science</a><br/>
+            <a href="https://www.columbia.edu">Columbia University</a><br/>
+            420 W. 118th Street<br/>
+            New York, NY 10027<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
+            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            </div>
         </div>
 
         <div class="span2">
