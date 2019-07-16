@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Jorge Mangonnet
-description: Jorge Mangonnet is a Ph.D. candidate in Political Science at Columbia University. 
+description: Jorge Mangonnet is a Ph.D. candidate in Political Science at Columbia University
 keywords: 
 ---
 
