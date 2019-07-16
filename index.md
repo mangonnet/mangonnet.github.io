@@ -5,7 +5,8 @@ description: Blue Ham is a PhD candidate at Broom University.
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a Ph.D. Candidate in Political Science at Columbia University. I conduct theoretical and empirical research on distributive conflict, state development, and political behavior with a focus on Latin America. My dissertation examines the conditions under which local traditional elites support the creation of statutory property regimes and comply with its rules in contexts of limited administrative capacity. It relies on an original body of archival evidence from the Empire of Brazil (1822-1889) collected over ten months of fieldwork. My work draws on quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
+
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -19,13 +20,13 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
     <div class="row-fluid">
         <div class="span5">
             Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Email: jgm2159 (at) columbia (dot) edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+            <img src="../assets/headshot2.jpg"
+                  title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a>
         </div>
     </div>
 </div>
@@ -33,9 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/mangonnet">GitHub</a></li>
+          <li><a href="https://twitter.com/dog_feelings">Twitter (@jmangonnet)</a></li>
       </ul>
   </div>
 </div>
