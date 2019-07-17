@@ -5,11 +5,13 @@ description: Jorge Mangonnet is a Ph.D. candidate in Political Science at Columb
 keywords: 
 ---
 
-I am a Ph.D. Candidate in Political Science at Columbia University. My research interests lie at the intersection of comparative politics and international political economy. 
+I am a Ph.D. Candidate in [Political Science](https://polisci.columbia.edu) at [Columbia University](https://www.columbia.edu). My research interests lie at the intersection of comparative politics and international political economy. 
 
-I conduct theoretical and empirical research on the emergence and development of property rights systems in contexts of limited state capacity, with a regional focus in Latin America. My doctoral dissertation investigates the political conditions under which local traditional elites, such as landlords or chiefs, decide to support the creation of statutory property regimes and willingly comply with their rules. To test this theory, I rely on an novel body of archival evidence from the Empire of Brazil (1822-89) collected throughout ten months of fieldwork, which includes original notarial documents, biographical dictionaries, and parliamentary debates. I have also published on distributive conflict over commodity prices, local economic voting, and contentious behavior. My work draws on quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
+I conduct theoretical and empirical research on the development of property rights systems in contexts of limited state capacity, with a regional focus in Latin America. My dissertation investigates the conditions under which local traditional elites decide to support the creation of statutory property regimes and comply with their rules. It relies on an novel body of archival evidence from the Empire of Brazil (1822-89) collected throughout ten months of fieldwork, such as original notarial documents, biographical dictionaries, and transcripts from parliamentary sessions. 
 
-Prior to Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council (CONICET), a research assistant to the Latin American Public Opinion Project (LAPOP), and junior scholar at the Argentine Senate. 
+In other projects, I examine episodes of distributive conflict over commodity price shocks, voting behavior in rural areas, the political economy of environmental protection, and contentious political participation. My work draws on a variety of methodological approaches including quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
+
+Prior to studying at Columbia, I was a graduate fellow at Argentina's [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar), a research assistant to the [Latin American Public Opinion Project (LAPOP)](https://www.vanderbilt.edu/lapop/), and junior scholar at the [Argentine Senate](https://www.senado.gob.ar). 
 
 
 
@@ -42,7 +44,7 @@ Prior to Columbia, I was a graduate fellow at Argentina's National Scientific an
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a>
+                  title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a><br/>
         </div>
     </div>
 </div>
