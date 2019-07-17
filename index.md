@@ -10,25 +10,24 @@ keywords:
 <tr>
   <td class="left">
     <a href="assets/publpics/lei1850.jpg">
-        <img src="assets/publpics/lei1850.jpg" alt="Brazil's 1850 Land Law (Historical Archive of the Chamber of Deputies)" title="Brazil's 1850 Land Law (Historical Archive of the Chamber of Deputies)"/>
+        <img src="assets/publpics/lei1850.jpg" alt="Draft of Brazil's 1850 Land Law - Historical Archive of the Chamber of Deputies" title="Draft of Brazil's 1850 Land Law - Historical Archive of the Chamber of Deputies"/>
     </a>
   </td>
   <td class="right">
-    <a href="assets/publpics/museu3.jpg">
-        <img src="assets/publpics/museu3.jpg" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+    <a href="assets/publpics/museu1c.jpg">
+        <img src="assets/publpics/museu1c.jpg" alt="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo" title="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="assets/publpics/amazonia.jpg">
-        <img src="assets/publpics/amazonia.jpg" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="assets/publpics/amazonia.jpg" alt="Map of the Amazon basin for the II National Development Plan - Jornal do Brasil (May 26, 1977)" title="Map of the Amazon basin for the II National Development Plan - Jornal do Brasil (May 26, 1977)"/>
     </a>
   </td>
   <td class="right">
     <a href="assets/publpics/unesp.jpg">
-        <img src="assets/publpics/unesp.jpg" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+        <img src="assets/publpics/unesp.jpg" alt="Land deeds and conveyances from the Pontal do Paranapanema - NERA documentation center, Sao Paulo State University" title="Land deeds and conveyances from the Pontal do Paranapanema - NERA documentation center, Sao Paulo State University"/>
     </a>
   </td>
 </tr>
