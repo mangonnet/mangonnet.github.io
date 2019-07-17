@@ -23,12 +23,12 @@ keywords:
 <tr>
   <td class="left">
     <a href="assets/publpics/amazonia.jpg">
-        <img src="assets/publpics/amazona.jpg" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="assets/publpics/amazonia.jpg" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="assets/publpics/unesp.jpg">
-        <img src="assets/publpics/unesp.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+        <img src="assets/publpics/unesp.jpg" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
     </a>
   </td>
 </tr>
