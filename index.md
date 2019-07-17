@@ -14,8 +14,8 @@ keywords:
     </a>
   </td>
   <td class="right">
-    <a href="assets/publpics/museu1c.jpg">
-        <img src="assets/publpics/museu1c.jpg" alt="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo" title="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo"/>
+    <a href="assets/publpics/museu1c.png">
+        <img src="assets/publpics/museu1c.png" alt="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo" title="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo"/>
     </a>
   </td>
 </tr>
