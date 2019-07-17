@@ -7,13 +7,9 @@ keywords:
 
 <div style="text-align: justify">
 I am a Ph.D. Candidate in Political Science at Columbia University. My research interests lie at the intersection of comparative politics and international political economy. 
-</div>
-<br>
-<div style="text-align: justify">
+
 I conduct theoretical and empirical research on the emergence and development of property rights systems in contexts of limited state capacity, with a regional focus in Latin America. My doctoral dissertation investigates the political conditions under which local traditional elites, such as landlords or chiefs, decide to support the creation of statutory property regimes and willingly comply with their rules. To test this theory, I rely on an novel body of archival evidence from the Empire of Brazil (1822-89) collected throughout ten months of fieldwork, which includes original notarial documents, biographical dictionaries, and parliamentary debates. I have also published on distributive conflict over commodity prices, local economic voting, and contentious behavior. My work draws on quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
-</div>
-<br>
-<div style="text-align: justify">
+
 Prior to Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council (CONICET), a research assistant to the Latin American Public Opinion Project (LAPOP), and junior scholar at the Argentine Senate. 
 </div>
 
