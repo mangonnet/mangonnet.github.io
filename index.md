@@ -11,14 +11,7 @@ I conduct theoretical and empirical research on the development of property righ
 
 In other projects, I examine episodes of distributive conflict over commodity price shocks, voting behavior in rural areas, the political economy of environmental protection, and contentious political participation. My work draws on a variety of methodological approaches including quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
 
-Prior to studying at Columbia, I was a graduate fellow at Argentina's [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar), a research assistant to the [Latin American Public Opinion Project (LAPOP)](https://www.vanderbilt.edu/lapop/), and junior scholar at the [Argentine Senate](https://www.senado.gob.ar). 
-
-
-
-
-
-
-
+Prior to studying at Columbia, I was a graduate fellow at Argentina's [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar), a research assistant to the [Latin American Public Opinion Project (LAPOP)](https://www.vanderbilt.edu/lapop/), and junior scholar at the [Argentine Senate](https://www.senado.gob.ar). I received a M.A. in Political Science at [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science at the [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
 
 ---
 
@@ -28,7 +21,7 @@ Prior to studying at Columbia, I was a graduate fellow at Argentina's [National 
 
     <div class="row-fluid">
         <div class="span5">
-            Jorge Mangonnet<br/>
+            <a href="https://polisci.columbia.edu/content/jorge-guillermo-mangonnet"</a>Jorge Mangonnet<br/>
             <a href="https://polisci.columbia.edu">Department of Political Science</a><br/>
             <a href="https://www.columbia.edu">Columbia University</a><br/>
             420 W. 118th Street<br/>
