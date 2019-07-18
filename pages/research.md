@@ -50,12 +50,12 @@ Family Networks and Distributive Politics in Authoritarian Regimes: Evidence fro
 
 A Natural Experiment on Property Rights and Social Capital in Argentina (with Antonella Bandiera and Horacio Larreguy)
 
-Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru (with Sara Or\'{e} Quispe and Micaela Sviatschi)
+Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru (with Sara Oré Quispe and Micaela Sviatschi)
 
 
 ### other publications	
 
-
+Test Acceptance of the Single-Ballot System. (2009). Policy Paper No. 36, _Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento_ (CIPPEC) [<a href="https://www.cippec.org/publicacion/testeo-de-aceptacion-del-sistema-de-votacion-por-boleta-unica-entre-los-votantes">paper</a>]
 
 
 
