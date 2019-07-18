@@ -55,7 +55,7 @@ Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Disco
 
 ### other publications	
 
-Test Acceptance of the Single-Ballot System. 2009. Policy Paper No. 36, _Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento_ (CIPPEC) [<a href="{{ BASE_PATH }}/assets/gm_cippec2009.pdf">paper</a>]
+Test Acceptance of the Single-Ballot System (with Carlos Gervasoni). 2009. Policy Paper No. 36, _Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento_ (CIPPEC) [<a href="{{ BASE_PATH }}/assets/gm_cippec2009.pdf">paper</a>]
 
 
 
