@@ -27,9 +27,9 @@ La Economía Política de la Argentina Exportadora en el Nuevo Milenio: Proponie
 
 ### <a name="working papers"></a>working papers
 
-Protests of Abundance: Agricultural Rents and Rural Lockouts in Argentina during the Commodities Boom (with M. Victoria Murillo). _Revise and resubmit_
+Protests of Abundance: Agricultural Rents and Rural Lockouts in Argentina during the Commodities Boom (with M. Victoria Murillo). _Revise and resubmit_ [<a href="{{ BASE_PATH }}/pages/working_papers/mangonnet&murillo_paper_v201903">paper</a>] [<a href="{{ BASE_PATH }}/pages/working_papers/mangonnet&murillo_appendix_v201903">appendix</a>]
 
-\item[-] Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil (with Jacob Kopas and Johannes Urpelainen). _Revise and resubmit_ [<a href="{{ BASE_PATH }}/pages/working_papers/mangonnet&murillo_paper_v201906">paper</a>] [<a href="{{ BASE_PATH }}/pages/working_papers/mangonnet&murillo_appendix_v201906">appendix</a>]
+Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil (with Jacob Kopas and Johannes Urpelainen) _Revise and resubmit_ [<a href="{{ BASE_PATH }}/pages/working_papers/kmu_paper_v201906">paper</a>] [<a href="{{ BASE_PATH }}/pages/working_papers/kmu_appendix_v201906">appendix</a>]  
 	
 Property Formation in Weak States: Theory and Evidence from Imperial Brazil (dissertation chapter)
 
@@ -40,7 +40,6 @@ Struggling in Times of Affluence: Land Conflict during the Paraguayan Soybean Bo
 The Contentious Returns to Education: Multilevel Evidence from Brazil
 
 Clientelism and Protest Buying in Argentina (with Mason Moseley)
-
 
 
 ### <a name="select works in progress"></a>select works in progress
