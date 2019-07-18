@@ -14,6 +14,6 @@ Columbia University (Teaching Fellow):
  - **POLS GU4461 - Latin American Politics: Democracy, Representation, and the Rule of Law**. Instructor: Maria Victoria Murillo. Undergraduate level. Fall 2016, 2015, and 2014
 
 In Argentina (Teaching Assistant):
- - **Public Policy** (Universidad de San Andrés). Undergraduate Level. 2013
- - **Political Sociology** (Universidad de Buenos Aires). Undergraduate Level. 2010
+ - **Public Policy** (Universidad de San Andrés). Undergraduate level. 2013
+ - **Political Sociology** (Universidad de Buenos Aires). Undergraduate level. 2010
 
