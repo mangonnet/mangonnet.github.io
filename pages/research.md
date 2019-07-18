@@ -44,6 +44,14 @@ Clientelism and Protest Buying in Argentina (with Mason Moseley)
 
 ### <a name="select works in progress"></a>select works in progress
 
+Subverting Land Registration in the Brazilian Amazon 
+
+Family Networks and Distributive Politics in Authoritarian Regimes: Evidence from Paraguay, 1954-2003 (with Antonella Bandiera and Horacio Larreguy)
+
+A Natural Experiment on Property Rights and Social Capital in Argentina (with Antonella Bandiera and Horacio Larreguy)
+
+Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru (with Sara Or\'{e} Quispe and Micaela Sviatschi)
+
 
 ### other publications	
 
