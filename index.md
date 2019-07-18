@@ -38,6 +38,7 @@ keywords:
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=7MjjXz0AAAAJ&hl=en">Google Scholar</a></li>
+          <li><a href="https://orcid.org/0000-0002-4340-6938?lang=en">ORCID</a></li>
           <li><a href="https://github.com/mangonnet">GitHub</a></li>
           <li><a href="https://twitter.com/jmangonnet">Twitter</a></li>
       </ul>
