@@ -9,6 +9,9 @@ description: Jorge Mangonnet's research
 
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
+Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015 (with M. Victoria Murillo and Julia Rubio). 2018. _Latin American Politics and Society_ 60, 8, pp. 27--53 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/92C3A565596E963CB91A90759BB87911/S1531426X18000237a.pdf/local_economic_voting_and_the_agricultural_boom_in_argentina_20072015.pdf">[article]</a> <a href="https://static.cambridge.org/resource/id/urn:cambridge.org:id:binary:20180730062633584-0581:S1531426X18000237:S1531426X18000237sup001.docx">[appendix]</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">[replication data]</a>
+
+
 #### in Spanish
 
 
