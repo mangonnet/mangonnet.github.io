@@ -26,8 +26,8 @@ Prior to studying at Columbia, I received an M.A. in Political Science at [Unive
     <div class="row-fluid">
         <div class="span5">
             <a href="https://polisci.columbia.edu/content/jorge-guillermo-mangonnet">Jorge Mangonnet</a><br/>
-            <a href="https://www.columbia.edu">Columbia University</a><br/>
-            a href="https://polisci.columbia.edu">Department of Political Science</a><br/>
+            <a href="https://www.columbia.edu">Columbia University"</a><br/>
+            a href="https://polisci.columbia.edu">Department of Political Science"</a><br/>
             420 W. 118th Street<br/>
             New York, NY 10027<br/><br/>
 
