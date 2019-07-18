@@ -7,7 +7,7 @@ description: Jorge Mangonnet's research
 ### <a name="dissertation summary"></a>dissertation summary
 
 
-### <a name="articles"></a>articles	
+### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
 #### in Spanish
 
@@ -15,10 +15,10 @@ description: Jorge Mangonnet's research
 ### <a name="working papers"></a>working papers	
 
 
-### <a name="select work in progress"></a>elect work in progress
+### <a name="select work in progress"></a>select work in progress
 
 
-### other writing	
+### other publications	
 
 
 
