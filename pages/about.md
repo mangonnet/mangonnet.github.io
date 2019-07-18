@@ -11,7 +11,7 @@ I conduct theoretical and empirical research on the formation and development of
 
 In other projects, I study episodes of distributive conflict over commodity price shocks, economic voting in rural areas, the political economy of environmental protection, and contentious behavior. My work draws on multiple methodological approaches such as quantitative tools for causal inference, comparative historical analysis, semi-structured interviews, participant observation, and extensive archival research.
 
-Prior to studying at Columbia, I received an M.A. in Political Science at [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science at the [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
+Prior to studying at Columbia, I received an M.A. in Political Science from [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science from [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
 
 
 <!-- Prior to Columbia, I was a graduate fellow at Argentina's [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar), a research assistant to the [Latin American Public Opinion Project (LAPOP)](https://www.vanderbilt.edu/lapop/), and a junior scholar at the [Argentine Senate](https://www.senado.gob.ar). I received an M.A. in Political Science at [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science at the [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. -->
