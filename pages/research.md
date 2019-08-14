@@ -4,8 +4,6 @@ title: research
 description: Jorge Mangonnet's research
 ---
 
-### <a name="dissertation summary"></a>dissertation summary
-
 
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
