@@ -7,6 +7,8 @@ description: Jorge Mangonnet's research
 
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
+Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013 (with M. Victoria Murillo). Conditionally accepted at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm.pdf">paper</a>] 
+
 Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015 (with M. Victoria Murillo and Julia Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53 [<a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a>] [<a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>]
 
 Competitiveness, Partisanship, and Subnational Protest in Argentina (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919 [<a href="{{ BASE_PATH }}/assets/am_cps2013.pdf">article</a>] 
@@ -24,8 +26,6 @@ La Economía Política de la Argentina Exportadora en el Nuevo Milenio: Proponie
 
 
 ### <a name="working papers"></a>working papers
-
-Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013 (with M. Victoria Murillo). _Revise and resubmit_ [<a href="{{ BASE_PATH }}/assets/v062019_mm.pdf">paper</a>] 
 
 Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil (with Jacob Kopas and Johannes Urpelainen) _Revise and resubmit_ [<a href="{{ BASE_PATH }}/assets/v062018_kmu.pdf">paper</a>] 
 	
