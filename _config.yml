@@ -69,6 +69,9 @@ JB :
   atom_path : nil
   rss_path : nil
 
+  # Google Analytics
+  google_analytics: UA-147560465-1
+
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
@@ -102,10 +105,10 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-  jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-147560465-1      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+  #jekyll_analytics:
+  #GoogleAnalytics:          # Add, if you want to track with Google Analytics
+  #  id: UA-147560465-1      # Required - replace with your tracking id
+  #  anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
 
