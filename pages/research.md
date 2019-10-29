@@ -4,25 +4,15 @@ title: research
 description: Jorge Mangonnet's research
 ---
 
+Refer to my [<a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a>] for a full list of publications. 
 
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
-Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013 (with M. Victoria Murillo). Conditionally accepted at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm.pdf">paper</a>] 
+Mangonnet, Jorge and Murillo, M. Victoria. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013 (with M. Victoria Murillo)**. Forthcoming at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm_p.pdf">paper</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">appendix</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">active citations</a>]  
 
 Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015 (with M. Victoria Murillo and Julia Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53 [<a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a>] [<a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>]
 
 Competitiveness, Partisanship, and Subnational Protest in Argentina (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919 [<a href="{{ BASE_PATH }}/assets/am_cps2013.pdf">article</a>] 
-
-
-#### in Spanish
-
-Los Determinantes Electorales y Partidarios de la Beligerancia Popular en las Provincias Argentinas, 1993-2007 (with Moises Arce). 2017. _Revista de la Sociedad Argentina de Análisis Político_ 11(1), 11--34 [<a href="{{ BASE_PATH }}/assets/ma_saap2017.pdf">article</a>]
-
-El Boom Sojero y la Protesta Fiscal de los Productores Rurales (with M. Victoria Murillo). 2017. _Desarrollo Económico_ 57(221), 165--179 [<a href="{{ BASE_PATH }}/assets/mm_de2017.pdf">article</a>]	
-
-Argentina: El Protagonismo de los Votantes y la Alternancia Electoral (with M. Victoria Murillo and Julia Rubio). 2016. _Revista de Ciencia Política_ 36(1), 3--26 [<a href="{{ BASE_PATH }}/assets/mrm_rccp2016.pdf">article</a>]
-
-La Economía Política de la Argentina Exportadora en el Nuevo Milenio: Proponiendo una Nueva Agenda de Investigación (with M. Victoria Murillo). 2013. _Desarrollo Económico_ 53(209--210), 223--239 [<a href="{{ BASE_PATH }}/assets/mm_de2013.pdf">article</a>]
 
 
 ### <a name="working papers"></a>working papers
@@ -51,9 +41,7 @@ A Natural Experiment on Property Rights and Social Capital in Argentina (with An
 Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru (with Sara Oré Quispe and Micaela Sviatschi)
 
 
-### other publications	
 
-Test Acceptance of the Single-Ballot System (with Carlos Gervasoni). 2009. Policy Paper No. 36, _Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento_ (CIPPEC) [<a href="{{ BASE_PATH }}/assets/gm_cippec2009.pdf">paper</a>]
 
 
 
