@@ -4,11 +4,11 @@ title: research
 description: Jorge Mangonnet's research
 ---
 
-Refer to my [<a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a>] for a full list of publications. 
+Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full list of publications. 
 
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
-Mangonnet, Jorge and Murillo, M. Victoria. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013 (with M. Victoria Murillo)**. Forthcoming at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm_p.pdf">paper</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">appendix</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">active citations</a>]  
+Mangonnet, J. and Murillo, M. V 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm_p.pdf">paper</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">appendix</a>] [<a href="{{ BASE_PATH }}/poainterviews/">active citations</a>]  
 
 Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015 (with M. Victoria Murillo and Julia Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53 [<a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a>] [<a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>]
 
