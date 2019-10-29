@@ -6,7 +6,7 @@ keywords:
 ---
 
 <p align="justify"> I am a Ph.D. Candidate in <a href="https://polisci.columbia.edu">Political Science</a> at <a href="https://www.columbia.edu">Columbia University</a> specializing in comparative politics and international political economy. I write on the politics of property rights in the postcolonial world, with a regional focus in Latin America. In my work, I combine statistical methods, including spatial and network analysis, with comparative historical research and extensive fielwork.</p> 
-&nbsp;
+<br>
 <p align="justify"> 
 My dissertation investigates the historical emergence of individual ownership in land in contexts of limited state capacity. This work examines how the demise of the Atlantic slave trade in Imperial Brazil (1822-1889) encouraged a class of local plantation owners to renounce customary privileges from the colonial era and support for the introduction of freehold tenure. Empirically, I draw on a novel, untapped body of archival evidence that includes notary public documents, church inventories of slaves, parliamentary transcripts, and biographical records of prominent elites. &nbsp; 
 In other projects, I study episodes of distributive conflict over natural resource wealth, dynamics of contention in rural areas, the political economy of environmental protection, and distributive politics in authoritarian regimes. &nbsp;
