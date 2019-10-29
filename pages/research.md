@@ -10,9 +10,9 @@ Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full 
 
 Mangonnet, J. and Murillo, M. V 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_ [<a href="{{ BASE_PATH }}/assets/v062019_mm_p.pdf">paper</a>] [<a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">appendix</a>] [<a href="{{ BASE_PATH }}/poainterviews/">active citations</a>]  
 
-Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015 (with M. Victoria Murillo and Julia Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53 [<a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a>] [<a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>]
+Mangonnet, J., Murillo, M. V, and J. M. Rubio. 2018. **Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015**. _Latin American Politics and Society_ 60(8), 27--53 [<a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a>] [<a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>]
 
-Competitiveness, Partisanship, and Subnational Protest in Argentina (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919 [<a href="{{ BASE_PATH }}/assets/am_cps2013.pdf">article</a>] 
+Arce, M. and Mangonnet, J. 2013. **Competitiveness, Partisanship, and Subnational Protest in Argentina**. _Comparative Political Studies_ 46(8), 895--919 [<a href="{{ BASE_PATH }}/assets/am_cps2013.pdf">article</a>] 
 
 
 ### <a name="working papers"></a>working papers
