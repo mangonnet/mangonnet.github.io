@@ -6,24 +6,21 @@ keywords:
 ---
 
 <div style="text-align: justify ">
-I am a Ph.D. Candidate in [Political Science](https://polisci.columbia.edu) at [Columbia University](https://www.columbia.edu) specializing in comparative politics and international political economy. I write on the politics of property rights in developing countries, with a regional focus in Latin America. In my work, I combine statistical methods--including spatial and network analysis--with comparative historical research and extensive fielwork.
+I am a Ph.D. Candidate at the <a href="https://polisci.columbia.edu">Department of Political Science</a> at <a href="https://www.columbia.edu">Columbia University</a> specializing in comparative politics and historical political economy. I write on the politics of property rights in the postcolonial world, with a regional focus in Latin America. In my work, I combine statistical methods, including spatial and network analysis, with comparative historical research and extensive fielwork.
 </div>
 
 <div style="text-align: justify ">
-My dissertation investigates the historical emergence of individual ownership in land in contexts of limited state capacity. This work examines how the demise of the Atlantic slave trade in Imperial Brazil (1822-1889) encouraged a class of local plantation owners to renounce customary privileges from the colonial era and support the introduction of freehold tenure. To examine this question, I rely on a novel, untapped body of archival evidence that includes notary public documents, church inventories of slaves, parliamentary transcripts, and biographical records of prominent elites. 
+My dissertation investigates the historical emergence of individual ownership in land in contexts of limited state capacity. This work examines how the demise of the Atlantic slave trade in Imperial Brazil (1822-1889) encouraged a class of local plantation owners to renounce customary privileges from the colonial era and support the introduction of freehold tenure. Empirically, I draw on a novel, untapped body of archival evidence that includes notary public documents, church inventories of slaves, parliamentary transcripts, and biographical records of prominent elites. 
 </div>
 
 <div style="text-align: justify ">
-In other projects, I study episodes of distributive conflict over natural resource wealth, civil conflict and , the political economy of environmental protection, and distributive politics in authoritarian regimes. 
+In other projects, I study episodes of distributive conflict over natural resource wealth, dynamics of contention in rural areas, the political economy of environmental protection, and distributive politics in authoritarian regimes. 
 </div>
 
 <div style="text-align: justify ">
-Prior to studying at Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council ([CONICET](https://www.conicet.gov.ar/?lan=en)) and worked as a legislative staff at the [Argentine Senate](https://www.senado.gov.ar). I received an M.A. in Political Science from [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science from [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
+Prior to studying at Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council (<a href="https://www.conicet.gov.ar/?lan=en">CONICET</a>) and worked as a legislative staff at the <a href="https://www.senado.gov.ar">Argentine Senate</a>. I received an M.A. in Political Science from <a href="https://www.utdt.edu">Universidad Torcuato Di Tella</a> and a B.A. in Political Science from <a href="http://www.usal.edu.ar">Universidad del Salvador</a> in Buenos Aires, Argentina. 
 </div>
 
-
-
-<!-- Prior to Columbia, I was a graduate fellow at Argentina's [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar), a research assistant to the [Latin American Public Opinion Project (LAPOP)](https://www.vanderbilt.edu/lapop/), and a junior scholar at the [Argentine Senate](https://www.senado.gob.ar). I received an M.A. in Political Science at [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science at the [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. -->
 
 
 ---
