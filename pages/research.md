@@ -38,7 +38,7 @@ Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Rural Resistance 
 <em>This paper investigates rural conflict between peasants and landowners in Paraguay in the past two decades in order to understand the conditions under which landed elites dispossess peasant populations of the lands they inhabit, a phenomenon that has gained salience in the past two decades. Conventional explanations underscore the incidence of the 2000s commodities boom that made increase the value of land for commercial production. We examine here the relative weight of those economic incentives vis-á-vis political factors. In particular, we explore whether conflicts are more likely to emerge depending on electoral incentives associated to the party of the mayor and its alignment with the national government as well as local organizations that increase the capacity of collective actions of both actors. Furthermore, we explore the protest repertoires used by resisting peasants and compare those with the contentious tools of farmers in their conflict with the state seeking to not only explain the patterns of conflict occurrences but also its different forms of expression</em>
 </details>
 <br>
-Mangonnet, J. **Maps of Illegibility: The Politics of Misinformation and Land Registration in Brazil**.
+Mangonnet, J. **Maps of Illegibility: The Politics of Land (Mis)Registration in Brazil**.
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
 
