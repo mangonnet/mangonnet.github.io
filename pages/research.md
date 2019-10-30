@@ -27,9 +27,9 @@ Arce, M. and Mangonnet, J. 2013. **Competitiveness, Partisanship, and Subnationa
 
 ### <a name="working papers"></a>working papers
 
-Kopas, J., Mangonnet, J., and J. Urpelainen. **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil** _Revise and resubmit_. 
+Kopas, J., Mangonnet, J., and J. Urpelainen. **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil** (_Revise and resubmit_). 
 
-<a href="{{ BASE_PATH }}/assets/v062018_kmu_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v042016_kmu_a.pdf">appendix</a> &#x7c; e-mail for the last version
+<a href="{{ BASE_PATH }}/assets/v062018_kmu_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v042016_kmu_a.pdf">appendix</a> (e-mail for the last version)
 
 Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Imperial Brazil** (dissertation chapter).
 <details>
