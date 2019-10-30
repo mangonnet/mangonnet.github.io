@@ -28,11 +28,9 @@ Arce, M. and Mangonnet, J. 2013. **Competitiveness, Partisanship, and Subnationa
 
 Kopas, J., Mangonnet, J., and J. Urpelainen. **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil** _Revise and resubmit_
 
-<a href="{{ BASE_PATH }}/assets/v062018_kmu_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v062019_kmu_a.pdf">appendix</a>
-
+<a href="{{ BASE_PATH }}/assets/v062018_kmu_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v042016_kmu_a.pdf">appendix</a> &#x7c; e-mail for the last version
 
 Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Imperial Brazil** (dissertation chapter)
-
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
 
@@ -41,7 +39,6 @@ Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Impe
 <br>
 
 Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Popular Resistance in Times of Affluence: Land Conflict during the Paraguayan Soybean Boom**
-
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
 
@@ -50,10 +47,9 @@ Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Popular Resistanc
 <br>
 
 Mangonnet, J. **Maps of Illegibility: Redistributive Threats, Conservative Mobilization, and Cadastral Fraud in Brazil**
-
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
-Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I argue that landowners will make their landholdings ``illegible" when the central government makes a detrimental use of those records. I also argue that landowners will misreport propietorship in locations where a political leadership is capable of framing these schemes as a threat and sabotage government efforts at collecting information on landed properties. Using a historical database of cadastral audits in Brazil, I show that landowners systematically reported incomplete or misleading information about their landholdings to the cadastral survey in municipalities where land reform expropriations were being conducted. I find this effect to be larger where a locale from the Rural Democratic Union, a conservative league of ranchers, was present. I complement these results with a microlevel analysis of estates, semistructured interviews, and illustrative cases of large rural properties that were misregistered in the survey.
+<em> Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I argue that landowners will make their landholdings ``illegible" when the central government makes a detrimental use of those records. I also argue that landowners will misreport propietorship in locations where a political leadership is capable of framing these schemes as a threat and sabotage government efforts at collecting information on landed properties. Using a historical database of cadastral audits in Brazil, I show that landowners systematically reported incomplete or misleading information about their landholdings to the cadastral survey in municipalities where land reform expropriations were being conducted. I find this effect to be larger where a locale from the Rural Democratic Union, a conservative league of ranchers, was present. I complement these results with a microlevel analysis of individual estates, semistructured interviews, and illustrative cases of large rural properties that were misregistered in the survey <em>.
 <em></em>
 </details>
 <br>
