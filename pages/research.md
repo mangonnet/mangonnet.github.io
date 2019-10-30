@@ -6,12 +6,14 @@ description: Jorge Mangonnet's research
 
 Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full list of publications.
 <br>
+
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
 Mangonnet, J. and Murillo, M. V. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_. 
 
 <a href="{{ BASE_PATH }}/assets/v062019_mm_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v062019_mm_a.pdf">appendix</a> &#x7c; <a href="{{ BASE_PATH }}/poainterviews/">active citations</a>
 <br>
+
 
 Mangonnet, J., Murillo, M. V, and J. M. Rubio. 2018. **Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015**. _Latin American Politics and Society_ 60(8), 27--53. 
 
