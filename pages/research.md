@@ -5,7 +5,6 @@ description: Jorge Mangonnet's research
 ---
 
 Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full list of publications.
-
 <br>
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
