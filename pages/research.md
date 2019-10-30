@@ -18,18 +18,18 @@ Mangonnet, J., Murillo, M. V, and J. M. Rubio. 2018. **Local Economic Voting and
 <a href="{{ BASE_PATH }}/assets/mmr_article_laps2018.pdf">article</a> &#x7c; <a href="{{ BASE_PATH }}/assets/mmr_appendix_laps2018.pdf">appendix</a> &#x7c; <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ">replication data</a>
 <br>
 
-Arce, M. and Mangonnet, J. 2013. **Competitiveness, Partisanship, and Subnational Protest in Argentina**. _Comparative Political Studies_ 46(8), 895--919 
+Arce, M. and Mangonnet, J. 2013. **Competitiveness, Partisanship, and Subnational Protest in Argentina**. _Comparative Political Studies_ 46(8), 895--919. 
 
 <a href="{{ BASE_PATH }}/assets/am_cps2013.pdf">article</a>
 
 
 ### <a name="working papers"></a>working papers
 
-Kopas, J., Mangonnet, J., and J. Urpelainen. **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil** _Revise and resubmit_ 
+Kopas, J., Mangonnet, J., and J. Urpelainen. **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas in Brazil** _Revise and resubmit_. 
 
 <a href="{{ BASE_PATH }}/assets/v062018_kmu_p.pdf">draft</a> &#x7c; <a href="{{ BASE_PATH }}/assets/v042016_kmu_a.pdf">appendix</a> &#x7c; e-mail for the last version
 
-Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Imperial Brazil** (dissertation chapter)
+Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Imperial Brazil** (dissertation chapter).
 <details>
   <summary><em>abstract</em> (e-mail for the last version)</summary>
 
@@ -43,7 +43,7 @@ Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Popular Resistanc
 <em>This paper investigates rural conflict between peasants and landowners in Paraguay in the past two decades in order to understand the conditions under which landed elites dispossess peasant populations of the lands they inhabit, a phenomenon that has gained salience in the past two decades. Conventional explanations underscore the incidence of the 2000s commodities boom that made increase the value of land for commercial production. We examine here the relative weight of those economic incentives vis-á-vis political factors. In particular, we explore whether conflicts are more likely to emerge depending on electoral incentives associated to the party of the mayor and its alignment with the national government as well as local organizations that increase the capacity of collective actions of both actors. Furthermore, we explore the protest repertoires used by resisting peasants and compare those with the contentious tools of farmers in their conflict with the state seeking to not only explain the patterns of conflict occurrences but also its different forms of expression</em>
 </details>
 <br>
-Mangonnet, J. **Maps of Illegibility: The Politics of Misinformation and Land Registration in Brazil**
+Mangonnet, J. **Maps of Illegibility: The Politics of Misinformation and Land Registration in Brazil**.
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
 
@@ -53,15 +53,15 @@ Mangonnet, J. **Maps of Illegibility: The Politics of Misinformation and Land Re
 
 ### <a name="select works in progress"></a>select works in progress (with preliminary results)
 
-Mangonnet, J. **Crafting Property Rights in Abundant Resources: Labor Shocks and Elite Bargains in Imperial Brazil** (dissertation chapter)
+Mangonnet, J. **Crafting Property Rights in Abundant Resources: Labor Shocks and Elite Bargains in Imperial Brazil** (dissertation chapter).
 
-Bandiera, A., Larreguy, H., and J. Mangonnet. **Building Supporting Coalitions in Weak Autocracies: Evidence from Family Networks and Illegal Land Allocations in Paraguay, 1954-2003**
+Bandiera, A., Larreguy, H., and J. Mangonnet. **Building Supporting Coalitions in Weak Autocracies: Evidence from Family Networks and Illegal Land Allocations in Paraguay, 1954-2003**.
 
-Bandiera, A., Larreguy, H., and J. Mangonnet. **Do Property Rights Lead to More Engage Citizens? Evidence from Land Lotteries in Argentina**
+Bandiera, A., Larreguy, H., and J. Mangonnet. **Do Property Rights Lead to More Engage Citizens? Evidence from Land Lotteries in Argentina**.
 
-Mangonnet, J. and M. Moseley. **Clientelism and Protest Buying in Argentina** 
+Mangonnet, J. and M. Moseley. **Clientelism and Protest Buying in Argentina**. 
 
-Mangonnet, J., Oré Quispe, S., and M. Sviatschi. **Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru** 
+Mangonnet, J., Oré Quispe, S., and M. Sviatschi. **Do Criminal Incumbents Promote Illicit Markets? Evidence from a Regression Discontinuity Design in Peru**. 
 
 
 
