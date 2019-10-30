@@ -5,8 +5,7 @@ description: Jorge Mangonnet's research
 ---
 
 Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full list of publications.
-
-
+<br>
 ### <a name="peer-reviewed articles"></a>peer-reviewed articles	
 
 Mangonnet, J. and Murillo, M. V. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_. 
@@ -37,7 +36,6 @@ Mangonnet, J. **Property Formation in Weak States: Theory and Evidence from Impe
 <em>Local elites are assumed to resist state attempts at reforming property regimes out of fear of disempowerment. I propose a theory to explain why traditional authorities might support, and comply with, state-backed land tenure systems in contexts of limited administrative capacity. In the absence of restrictions on the customary use of land, I argue that a disruption to forced labor arrangements encourages elites to promote an exclusionary property order that invalidates workers' claims, reduces mobility, and facilitates the transition to cheap wage labor. I test this theory in Imperial Brazil, where the end of the Atlantic slave trade led southeastern planters to support the Land Law of 1850. Using a novel hand-collected geocoded data set, I show that planters in parishes with more slaves voluntarily shifted their landholdings to freehold tenure to subsidize the arrival of poor immigrant workers. I also show that individual parliamentarians who were slaveowners voted favorably for the Land Law as it denied the possession claims of the rural poor. These findings reveal that property formation in weak states is the result of a co-production effort between local and central interests and not of unilateral state action</em>
 </details>
 <br>
-
 Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Popular Resistance in Times of Affluence: Land Conflict during the Paraguayan Soybean Boom**
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
@@ -45,15 +43,13 @@ Duarte, R., Feierherd, G., Mangonnet, J., and M. V. Murillo. **Popular Resistanc
 <em>This paper investigates rural conflict between peasants and landowners in Paraguay in the past two decades in order to understand the conditions under which landed elites dispossess peasant populations of the lands they inhabit, a phenomenon that has gained salience in the past two decades. Conventional explanations underscore the incidence of the 2000s commodities boom that made increase the value of land for commercial production. We examine here the relative weight of those economic incentives vis-á-vis political factors. In particular, we explore whether conflicts are more likely to emerge depending on electoral incentives associated to the party of the mayor and its alignment with the national government as well as local organizations that increase the capacity of collective actions of both actors. Furthermore, we explore the protest repertoires used by resisting peasants and compare those with the contentious tools of farmers in their conflict with the state seeking to not only explain the patterns of conflict occurrences but also its different forms of expression</em>
 </details>
 <br>
-
 Mangonnet, J. **Maps of Illegibility: Redistributive Threats, Conservative Mobilization, and Cadastral Fraud in Brazil**
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
-<em> Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I argue that landowners will make their landholdings ``illegible" when the central government makes a detrimental use of those records. I also argue that landowners will misreport propietorship in locations where a political leadership is capable of framing these schemes as a threat and sabotage government efforts at collecting information on landed properties. Using a historical database of cadastral audits in Brazil, I show that landowners systematically reported incomplete or misleading information about their landholdings to the cadastral survey in municipalities where land reform expropriations were being conducted. I find this effect to be larger where a locale from the Rural Democratic Union, a conservative league of ranchers, was present. I complement these results with a microlevel analysis of individual estates, semistructured interviews, and illustrative cases of large rural properties that were misregistered in the survey <em>.
-<em></em>
+
+<em>Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I argue that landowners will make their landholdings "illegible" when the central government makes a detrimental use of those records. I also argue that landowners will misreport propietorship in locations where a political leadership is capable of framing these schemes as a threat and sabotage government efforts at collecting information on landed properties. Using a historical database of cadastral audits in Brazil, I show that landowners systematically reported incomplete or misleading information about their landholdings to the cadastral survey in municipalities where land reform expropriations were being conducted. I find this effect to be larger where a locale from the Rural Democratic Union, a conservative league of ranchers, was present. I complement these results with a microlevel analysis of individual estates, semistructured interviews, and illustrative cases of large rural properties that were misregistered in the survey </em>
 </details>
-<br>
-	
+
 
 ### <a name="select works in progress"></a>select works in progress (with preliminary results)
 
