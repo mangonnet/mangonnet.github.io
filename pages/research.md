@@ -42,7 +42,7 @@ Mangonnet, J. **Maps of Illegibility: The Politics of Land (Mis)Registration in 
 <details>
   <summary><em>abstract</em> (e-mail for a draft)</summary>
 
-<em>Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I contend that landowners will prefer to make their landholdings "illegible" when the government signals a deleterious use of that information. I provide microlevel evidence of this logic by drawing on a rich database of federal cadastral audits from Brazil in 2000-2006. Results from a regression discontinuity design show that individual landowners selected into a mandatory regularization procedure were less likely to report accurate details of their estates, including geographic coordinates and soil productivity, to the cadastral agency in municipalities where there had been expropriations for a land reform program. I also find that landowners with ties to the Rural Democratic Union, a conservative league of ranchers, were prone to withheld cadastral records or declare apocryphal information. These results show how local nonstate elites partake in repertoires of quiet resistance against state-building efforts. They also have implications for advocates of streamlined land registration in developing countries, as the political environment in which these systems operate critically shapes how records could be utilized.</em>
+<em>Property rights in land must be simplified in deeds, conveyances, or maps to be exercised. Yet, landowners sometimes conceal or adulterate documentary evidence of ownership. I contend that landowners will prefer to make their landholdings "illegible" when the government signals a deleterious use of that information. I provide microlevel evidence of this logic by drawing on a rich database of federal cadastral audits from Brazil in 2000-2006. Results from a regression discontinuity design show that individual landowners selected into a mandatory regularization program were less likely to report accurate details of their estates, including geographic coordinates and soil productivity, to the cadastral agency in municipalities where there had been expropriations for land reform. I also find that landowners with ties to the Rural Democratic Union, a conservative league of ranchers, were prone to withheld cadastral records or declare apocryphal information. These results show how local nonstate elites partake in repertoires of quiet resistance against state-building endeavors. They also have implications for theories of capital mobility, redistribution, and land formalization in developing nations, as the political environment in which these systems operate critically shapes how records could be utilized.</em>
 </details>
 
 
@@ -52,7 +52,7 @@ Mangonnet, J. **Crafting Property Rights in Abundant Resources: Labor Shocks and
 
 Bandiera, A., Larreguy, H., and J. Mangonnet. **Building Supporting Coalitions in Weak Autocracies: Evidence from Family Networks and Illegal Land Allocations in Paraguay, 1954-2003**.
 
-Bandiera, A., Larreguy, H., and J. Mangonnet. **Do Property Rights Lead to More Engage Citizens? Evidence from Land Lotteries in Argentina**.
+Bandiera, A., Larreguy, H., and J. Mangonnet. **Do Property Rights Lead to More Engaged Citizens? Evidence from Land Lotteries in Argentina**.
 
 Mangonnet, J. and M. Moseley. **Clientelism and Protest Buying in Argentina**. 
 
