@@ -11,7 +11,6 @@ The creation of individual and absolute ownership is a fundamental aspect of mod
 
 How do policymakers specify property rights in contexts of limited administrative capacity? And why do local elites support state-backed land tenure systems that allegedly disempower them? I contend that the erosion of forced labor relations can prompt the enactment of laws that confer individual property rights. In the absence of unambiguous restrictions on access to land, a shock to the labor repressive power of local elites can spur mobility and induce shortages as free workers can claim *de facto* property rights. This leads local elites and rulers to bargain for a liberal property order that curbs elites' preexisting control of land resources while invalidating the claims of free workers, thus provoking tenure insecurity and reducing alternatives to rural employment. 
 
-
 <table class="wide">
 <tr>
   <td class="left">
