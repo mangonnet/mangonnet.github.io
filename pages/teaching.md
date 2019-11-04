@@ -4,7 +4,7 @@ title: teaching
 description: Jorge Mangonnet's teaching 
 ---
 
-At <a href="https://gsas.columbia.edu/student-guide/teaching">Columbia</a>, I served as a Teaching Fellow for substantive courses on comparative politics at the undergraduate level and statistics classes offered to undergraduate and graduate students (both doctoral and master's) from numerous departments at the Graduate School of Arts and Sciences. Before coming to Columbia, I served as a teaching assistant at <a href="https://www.udesa.edu.ar">Universidad de San Andrés</a> and <a href="http://www.sociales.uba.ar">Universidad de Buenos Aires</a> in Argentina. My teaching interests cover comparative politics, international political economy, distributive conflict, state capacity, quantitative methods, and Latin American politics. Please, email me for syllabi, teaching evaluations, and recitation materials. 
+At <a href="https://gsas.columbia.edu/student-guide/teaching">Columbia</a>, I served as a Teaching Fellow for substantive courses on comparative politics at the undergraduate level and statistics classes offered to undergraduate and graduate students (both doctoral and master's) from various departments at the Graduate School of Arts and Sciences. Before coming to Columbia, I served as a teaching assistant at <a href="https://www.udesa.edu.ar">Universidad de San Andrés</a>, <a href="http://www.sociales.uba.ar">Universidad de Buenos Aires</a>, and <a href="http://www.usal.edu.ar">Universidad del Salvador</a> in Argentina. My teaching interests cover comparative politics, international political economy, property rights, state building and state capacity, contentious politics, and Latin American politics. Please email me for syllabi, teaching evaluations, and recitation materials. 
 
 Columbia University (Teaching Fellow):
  - **POLS UN3720 - Data Analysis and Statistics for Political Science Research**. Instructor: Michael Parrot. Undergraduate level. Spring 2019
@@ -16,4 +16,6 @@ Columbia University (Teaching Fellow):
 In Argentina (Teaching Assistant):
  - **Public Policy** (Universidad de San Andrés). Undergraduate level. 2013
  - **Political Sociology** (Universidad de Buenos Aires). Undergraduate level. 2010
+ - **Introduction to Comparative Politics** (Universidad del Salvador). Undergraduate level. 2008
+
 
