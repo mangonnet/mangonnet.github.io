@@ -20,7 +20,7 @@ How do policymakers specify property rights in contexts of limited administrativ
   </td>
   <td class="right">
     <a href="http://mangonnet.com/assets/publpics/coefplot_rcv.png">
-        <img src="http://mangonnet.com/assets/publpics/coefplot_rcv.png", width="200"/>
+        <img src="http://mangonnet.com/assets/publpics/coefplot_rcv.png" width="200"/>
     </a>
   </td>
 </tr>
