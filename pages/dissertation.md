@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dissertation
+title: dissertation/book project
 description: Jorge Mangonnet - Ph.D. Candidate in Political Science, Columbia University
 keywords: 
 ---
@@ -27,7 +27,6 @@ How do policymakers specify property rights in contexts of limited administrativ
 </table>
 
 I evaluate this theory using a novel dataset on land formalization, labor markets, and parliamentary voting from Imperial Brazil (1822-1889) collected over ten months of archival work. I study how a slaveholding planter class endorsed the Land Law of 1850---Brazil's first property law---as a response to a British ban on the Atlantic slave trade. This legislation made purchase the only means by which land could be alienated and subsidized the transportation of immigrant workers to replace slaves. I show that landowners in parishes with a greater slave population were more likely to comply with the Land Law by voluntarily regularizing their landholdings as private freeholds. Regularization involved taxation and barriers to encroachment but delivered the logistical resources (e.g., revenue and geographic information on plantations) the imperial government needed to finance immigration. I also show that parliamentarians who were slaveowners were more likely to vote in favor of the Land Law. They agreed to renounce customary privileges from the colonial era and transfer the specification of property rights to the imperial state to facilitate the advent of cheap wage labor.  
-
 
 My dissertation shows that property formation in weak states like Brazil or Australia was the result of a co-production effort between local and central interests and not of unilateral state action. Moreover, it has implications for understanding the emergence of property rights in abundant resources---thus challenging an important assumption of neoclassical political economy---and the microfoundations of inequality. 
 
