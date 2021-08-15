@@ -5,6 +5,7 @@ description: Ph.D. in Political Science, Columbia University | Prize Postdoctora
 keywords: 
 ---
 
+## Welcome
 
 I am a Ph.D. Candidate in [Political Science](https://polisci.columbia.edu) at [Columbia University](https://www.columbia.edu) specializing in comparative politics and international political economy. I write on the politics of property rights in the postcolonial world, with a regional focus in Latin America. In my work, I combine statistical methods---including spatial and network analysis---with comparative historical research and extensive fieldwork.
 
