@@ -1,37 +1,48 @@
 ---
 layout: frontpage
 title: Jorge Mangonnet
-description: Jorge Mangonnet is a Ph.D. candidate in Political Science at Columbia University
+description: Ph.D. in Political Science, Columbia University | Prize Postdoctoral Research Fellow in Politics, Nuffield College, University of Oxford
 keywords: 
 ---
 
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="assets/publpics/lei1850.jpg">
-        <img src="assets/publpics/lei1850.jpg" alt="Draft of Brazil's 1850 Land Law - Historical Archive of the Chamber of Deputies" title="Draft of Brazil's 1850 Land Law - Historical Archive of the Chamber of Deputies"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="assets/publpics/museu1c.png">
-        <img src="assets/publpics/museu1c.png" alt="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo" title="Immigrant workers in a coffee plantation circa 1930 - Immigration Museum of the State of São Paulo"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="assets/publpics/amazonia.jpg">
-        <img src="assets/publpics/amazonia.jpg" alt="Map of the Amazon basin for the II National Development Plan - Jornal do Brasil (May 26, 1977)" title="Map of the Amazon basin for the II National Development Plan - Jornal do Brasil (May 26, 1977)"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="assets/publpics/unesp.jpg">
-        <img src="assets/publpics/unesp.jpg" alt="Land deeds and conveyances from the Pontal do Paranapanema - NERA documentation center, Sao Paulo State University" title="Land deeds and conveyances from the Pontal do Paranapanema - NERA documentation center, Sao Paulo State University"/>
-    </a>
-  </td>
-</tr>
-</table>
+I am a Ph.D. Candidate in [Political Science](https://polisci.columbia.edu) at [Columbia University](https://www.columbia.edu) specializing in comparative politics and international political economy. I write on the politics of property rights in the postcolonial world, with a regional focus in Latin America. In my work, I combine statistical methods---including spatial and network analysis---with comparative historical research and extensive fieldwork.
+
+My dissertation and book project investigates the emergence of individual property rights in contexts of limited state capacity. This work examines how the demise of the Atlantic slave trade in Imperial Brazil (1822-1889) encouraged a powerful class of plantation owners to renounce customary privileges from the colonial era and support the introduction of freehold tenure. Empirically, I draw on a novel, untapped body of archival evidence that includes notary public documents, church inventories of slaves, parliamentary transcripts, and biographical records of prominent elites. 
+
+In other projects, I study episodes of distributive conflict over natural resource wealth, dynamics of contention in rural areas, the political economy of environmental protection, and distributive politics in authoritarian regimes. 
+
+Prior to studying at Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council ([CONICET](https://www.conicet.gov.ar/?lan=en)) and worked as a legislative staff at the [Argentine Senate](https://www.senado.gov.ar). I received an M.A. in Political Science from [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science from [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
+
+
+---
+
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://polisci.columbia.edu/content/jorge-guillermo-mangonnet">Jorge Mangonnet</a><br/>
+            <a href="https://www.columbia.edu">Columbia University</a><br/>
+            <a href="https://polisci.columbia.edu">Department of Political Science</a><br/>
+            420 W. 118th Street<br/>
+            New York, NY 10027<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>jgm</code><b>I</b><code>2159</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>colum</code><b>leave
+            </b><code>bia</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/><br/>
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a>
+        </div>
+    </div>
+</div>
 
 
 <div class="navbar">
