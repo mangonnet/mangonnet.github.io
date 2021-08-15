@@ -18,8 +18,6 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
 [![Online complements](icons/twitter.svg)](https://rqtl.org/book) [![Online complements](icons/github.svg)](https://rqtl.org/book) 
 
 
-
-
 ---
 
 
