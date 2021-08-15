@@ -9,9 +9,9 @@ keywords:
 
 I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. My research focuses on comparative politics and historical political economy, with an emphasis on how states and societies create property rights institutions and how those institutions shape power resources, norms, and conflict. My primary regional focus is Latin America.  
 
-My book project, _Labor Emancipation and Property Rights Formation in the New World_, examines how the abolition of labor-repressive arrangements---such as slavery or the slave trade---influenced the creation of private property rights in land. My research draws on unused archival documents from Imperial Brazil (1822-1889) collected during a year of fieldwork. The book is based on my dissertation, which won APSA's 2021 [Mancur Olson Award](https://www.politics.ox.ac.uk/news/jorge-mangonnet-wins-top-prize-for-dissertation-on-property-rights.html) for the Best Dissertation in Political Economy in the previous two years.
+My book project, _Labor Emancipation and Property Rights Formation in the New World_, examines how the abolition of labor repressive institutions---such as slavery or the slave trade---influenced the creation of private property rights in land. Empirically, it draws on unused archival documents from Imperial Brazil (1822-1889) collected during a year of fieldwork. The book is based on my dissertation, which won APSA's 2021 [Mancur Olson Award](https://www.politics.ox.ac.uk/news/jorge-mangonnet-wins-top-prize-for-dissertation-on-property-rights.html) for the Best Dissertation in Political Economy in the previous two years.
 
-Prior to studying at Columbia, I was a graduate fellow at Argentina's National Scientific and Technical Research Council ([CONICET](https://www.conicet.gov.ar/?lan=en)) and worked as a legislative staff at the [Argentine Senate](https://www.senado.gov.ar). I received an M.A. in Political Science from [Universidad Torcuato Di Tella](https://www.utdt.edu) and a B.A. in Political Science from [Universidad del Salvador](http://www.usal.edu.ar) in Buenos Aires, Argentina. 
+My work employs a multi-method approach, combining regression-type designs with qualtitative strategies in comparative historical analysis and extensive archival research.
 
 
 ---
