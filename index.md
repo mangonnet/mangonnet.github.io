@@ -50,7 +50,7 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
 
 
 <div class="navbar">
-  <div class="navbar-inner">
+  <div class="navbar-outer">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=7MjjXz0AAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://orcid.org/0000-0002-4340-6938?lang=en">ORCID</a></li>
