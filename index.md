@@ -38,7 +38,7 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
+        <a href="../assets/headshot_c1.jpg">
             <img src="../assets/headshot_c1.jpg"
                   title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a>
         </div>
