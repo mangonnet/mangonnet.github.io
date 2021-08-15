@@ -7,6 +7,9 @@ keywords:
 
 ## Welcome
 
+I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. My research interests lie at the intersection of comparative politics and historical political economy. I study how states and societies create property rights institutions, and how those institutions influence power resources, norms, and conflict. My primary regional focus is Latin America.  
+
+
 I am a Ph.D. Candidate in [Political Science](https://polisci.columbia.edu) at [Columbia University](https://www.columbia.edu) specializing in comparative politics and international political economy. I write on the politics of property rights in the postcolonial world, with a regional focus in Latin America. In my work, I combine statistical methods---including spatial and network analysis---with comparative historical research and extensive fieldwork.
 
 My dissertation and book project investigates the emergence of individual property rights in contexts of limited state capacity. This work examines how the demise of the Atlantic slave trade in Imperial Brazil (1822-1889) encouraged a powerful class of plantation owners to renounce customary privileges from the colonial era and support the introduction of freehold tenure. Empirically, I draw on a novel, untapped body of archival evidence that includes notary public documents, church inventories of slaves, parliamentary transcripts, and biographical records of prominent elites. 
@@ -44,6 +47,9 @@ Prior to studying at Columbia, I was a graduate fellow at Argentina's National S
         </div>
     </div>
 </div>
+
+
+---
 
 
 <div class="navbar">
