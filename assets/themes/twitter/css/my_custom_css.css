@@ -61,10 +61,6 @@ h1, h2, h3, h4 {
     color: maroon;
 }
 
-body{
-  font-family: Helvetica;
-  font-size: 16pt;
-}
 
 .danger {
     background-color: #ffdddd;
