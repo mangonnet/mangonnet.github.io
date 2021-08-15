@@ -11,7 +11,7 @@ I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](http
 
 My book project, _Labor Emancipation and Property Rights Formation in the New World_, examines how the abolition of labor repressive institutions---such as slavery or the slave trade---influenced the creation of private property rights in land. Empirically, it draws on unused archival documents from Imperial Brazil (1822-1889) collected during a year of fieldwork. The book is based on my dissertation, which won APSA's 2021 [Mancur Olson Award](https://www.politics.ox.ac.uk/news/jorge-mangonnet-wins-top-prize-for-dissertation-on-property-rights.html) for the Best Dissertation in Political Economy in the previous two years.
 
-My work employs a multi-method approach, combining regression-type designs with qualtitative strategies in comparative historical analysis and extensive archival research.
+My work employs a multi-method approach, combining regression-type designs with qualtitative strategies in comparative historical analysis and extensive archival research. It has appeared, or has been been accepted, in _The Journal of Politics_, _Comparative Political Studies_, and _Latin American Politics and Society_.
 
 
 ---
