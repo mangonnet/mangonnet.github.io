@@ -20,20 +20,20 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            <a href="https://polisci.columbia.edu/content/jorge-guillermo-mangonnet">Jorge Mangonnet</a><br/>
-            <a href="https://www.columbia.edu">Columbia University</a><br/>
-            <a href="https://polisci.columbia.edu">Department of Political Science</a><br/>
-            420 W. 118th Street<br/>
-            New York, NY 10027<br/><br/>
+            Jorge Mangonnet<br/>
+            Nuffield College<br/>
+            University of Oxford<br/>
+            New Road, OX1 1NF<br/>
+            Oxford, England<br/><br/>
 
             <div id="hide_email">
-            Email: <code>jgm</code><b>I</b><code>2159</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>colum</code><b>leave
-            </b><code>bia</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/><br/>
+            Email: <code>jorge.</code><b>I</b><code>mangonnet</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>nuffield</code><b>leave
+            </b><code>.</code><b>me</b><code>ox.</code><b>alone</b><code>e</code><b>!</b><code>ac.uk</code><br/><br/>
             </div>
         </div>
 
