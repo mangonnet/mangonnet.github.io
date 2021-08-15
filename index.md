@@ -33,7 +33,7 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
             <div id="hide_email">
             Email: <code>jorge.</code><b>I</b><code>mangonnet</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>nuffield</code><b>leave
-            </b><code>.</code><b>me</b><code>ox.</code><b>alone</b><code>e</code><b>!</b><code>ac.uk</code><br/><br/>
+            </b><code>.</code><b>me</b><code>ox.</code><b>alone</b><code>ac.</code><b>!</b><code>uk</code><br/><br/>
             </div>
         </div>
 
