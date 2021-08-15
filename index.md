@@ -20,7 +20,7 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
 
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -39,7 +39,7 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot_c1.jpg"
+            <img src="../assets/headshot_c1-2.jpg"
                   title="Jorge Mangonnet" alt="Jorge Mangonnet"/></a>
         </div>
     </div>
