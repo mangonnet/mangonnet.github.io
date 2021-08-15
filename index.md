@@ -15,6 +15,10 @@ My academic work employs multi-method approaches that combine regression-type de
 
 I received my PhD in Political Science (with Departmental Distinction) from [Columbia University](https://polisci.columbia.edu) in 2020. I completed a Master's in Political Science at Universidad Torcuato Di Tella and a BA in Political Science at the Universidad del Salvador, both in Buenos Aires, Argentina.
 
+[![Online complements](icons/twitter.svg)](https://rqtl.org/book) [![Online complements](icons/github.svg)](https://rqtl.org/book) 
+
+
+
 
 ---
 
