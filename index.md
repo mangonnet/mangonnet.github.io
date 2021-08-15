@@ -13,7 +13,7 @@ My book project, _Labor Emancipation and Property Rights Formation in the New Wo
 
 My academic work employs multi-method approaches that combine regression-type designs with qualtitative strategies in comparative historical analysis and extensive archival research. It has appeared, or has been been accepted, in _The Journal of Politics_, _Comparative Political Studies_, and _Latin American Politics and Society_.
 
-I received my Ph.D. in Political Science (with Departmental Distinction) from Columbia University in 2020. Before coming to Columbia, I completed a M.A. in Political Science from Universidad Torcuato Di Tella and a B.A. in Political Science from the Universidad del Salvador. 
+I received my PhD in Political Science (with Departmental Distinction) from Columbia University in 2020. Before going to Columbia, I completed a Master's in Political Science at Universidad Torcuato Di Tella and a BA in Political Science at the Universidad del Salvador, both in Buenos Aires, Argentina.
 
 
 ---
