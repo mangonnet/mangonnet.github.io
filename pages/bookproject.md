@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dissertation/book project
+title:
 description: Jorge Mangonnet - Ph.D. Candidate in Political Science, Columbia University
 keywords: 
 ---

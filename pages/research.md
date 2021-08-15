@@ -1,13 +1,11 @@
 ---
 layout: page
-title: research
-description: Jorge Mangonnet's research
+title:
+description: Research
 ---
 
-Refer to my <a href="{{ BASE_PATH }}/assets/cv_mangonnet.pdf">CV</a> for a full list of publications.
 
-
-### <a name="peer-reviewed articles"></a>peer-reviewed articles	
+### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles	
 
 Mangonnet, J. and Murillo, M. V. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_.<br>
 [draft](http://mangonnet.com/assets/v062019_mm_p.pdf) &#x7c; [appendix](http://mangonnet.com/assets/v062019_mm_a.pdf) &#x7c; [active citations](http://mangonnet.com/poainterviews/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title:
 description: Jorge Mangonnet's teaching 
 ---
 
