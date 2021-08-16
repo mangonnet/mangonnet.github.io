@@ -4,7 +4,7 @@ title:
 description: Research
 ---
 
-### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
+#### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
 [**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas**](http://mangonnet.com/assets/v062018_kmu_p.pdf) (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_. <br>
 
@@ -18,7 +18,7 @@ description: Research
 ---
 
 
-### <a name="Working Papers"></a>Working Papers and Work in Progress
+#### <a name="Working Papers"></a>Working Papers
 
 **How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
 * Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
@@ -34,7 +34,7 @@ description: Research
 ---
 
 
-### <a name="Working in Progress"></a>Work in Progress
+#### <a name="Working in Progress"></a>Work in Progress
 
 **Property Rights to Exclude Emancipated Slaves in the Postbellum South** (with Elena Barham).<br>
 
