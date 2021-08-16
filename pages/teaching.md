@@ -22,22 +22,22 @@ description: Teaching
 #### <a name="Columbia University (Teaching Fellow)"></a>Columbia University (Teaching Fellow)
 
 **Principles of Quantitative Political Research** (graduate). Fall 2019. Instructor: Robert Shapiro.<br> 
-[Syllabus] TF mean score: 
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
 **Data Analysis and Statistics for Political Science Research** (undergaduate). Spring 2019. Instructor: Michael Parrot.<br>
-[Syllabus] TF mean score: 
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
 **Advanced Regression Modeling** (graduate). Fall 2018. Instructor: Andrew Gelman.<br>
-[Syllabus] TF mean score: 
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
-**Design and Analysis of Sample Surveys** (graduate). Spring 2017. Instructor: Andrew Gelman. 
-[Syllabus] TF mean score: 
+**Design and Analysis of Sample Surveys** (graduate). Spring 2017. Instructor: Andrew Gelman.<br>
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
 **Introduction to Comparative Politics** (undergraduate). Spring 2016 and 2015. Instructor: Kimuli Kasara (Spring 2016) and Hande Mutlu-Eren (Spring 2015)<br>
-[Syllabus] TF mean score: 
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
 **Latin American Politics: Democracy, Representation, and the Rule of Law** (undergraduate). Fall 2016, 2015, and 2014. Instructor: M. Victoria Murillo.<br>
-[Syllabus] TF mean score: 
+[Syllabus] <span style="color:maroon">TF mean score:</span>
 
 
 ---
