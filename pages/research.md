@@ -21,22 +21,30 @@ description: Research
 ### <a name="Working Papers"></a>Working Papers and Work in Progress
 
 **How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
+* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
+* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation.<br>
 
-\* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
+**Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
-\* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation. <br>
+**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Liliana Rocío Duarte, Germán Feierherd, and M. Victoria Murillo). _Revise & Resubmit_.<br>
 
-**Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).
+**Economic Prosperity and Rural Unrest in the Twenty-First Century** (with M. Victoria Murillo).<br>
 
-**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Liliana Rocío Duarte, Germán Feierherd, and M. Victoria Murillo). _Revise & Resubmit_.
 
-**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera, available on request).
+---
 
-**Do Property Rights Lead to More Engaged Citizens? Evidence from a Land Lottery in Argentina** (with Horacio Larreguy and Antonella Bandiera).
-“Property Rights to Exclude Emancipated Slaves in the Postbellum South” (with Elena Barham).
-“Economic Prosperity and Rural Unrest in the Twenty-First Century” (with Mar ́ıa Victoria Murillo).
-“Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil.”
-“Weapons of the Strong: Immobile Capital, Leftist Threats, and Cadastral Fraud in Brazil.”
+
+### <a name="Working in Progress"></a>Work in Progress
+
+**Property Rights to Exclude Emancipated Slaves in the Postbellum South** (with Elena Barham).<br>
+
+**Do Property Rights Lead to More Engaged Citizens? Evidence from a Land Lottery in Argentina** (with Horacio Larreguy and Antonella Bandiera).<br>
+
+**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera).<br>
+
+**Weapons of the Strong: Immobile Capital, Leftist Threats, and Cadastral Fraud in Brazil**.<br>
+
+**Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil**.<br>
 
 
 ---
