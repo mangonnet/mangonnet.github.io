@@ -4,7 +4,10 @@ title:
 description: Teaching
 ---
 
-Please email me teaching evaluations and recitation materials.
+Please email me for complete teaching evaluations and recitation materials.
+
+
+---
 
 
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
@@ -12,6 +15,10 @@ Please email me teaching evaluations and recitation materials.
 **Comparative Government MPhil Core Course**. Term 2020--2021.
 - Course Director: Robin Harding.
 - Syllabus <br> 
+
+
+---
+
 
 #### <a name="Columbia University (Teaching Fellow)"></a>Columbia University (Teaching Fellow)
 
@@ -27,6 +34,10 @@ Please email me teaching evaluations and recitation materials.
 **POLS W4764 - Design and Analysis of Sample Surveys**. Instructor: Andrew Gelman. Graduate level. Spring 2017.
 **POLS V1501 - Introduction to Comparative Politics**. Instructor(s): Kimuli Kasara/Hande Mutlu-Eren. Undergraduate level. Spring 2016-2015.
 **POLS GU4461 - Latin American Politics: Democracy, Representation, and the Rule of Law**. Instructor: Maria Victoria Murillo. Undergraduate level. Fall 2016-2014.
+
+
+---
+
 
 In Argentina (Teaching Assistant):
  - **Public Policy** (Universidad de San Andrés). Undergraduate level. 2013.
