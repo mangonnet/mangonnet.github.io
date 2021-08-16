@@ -30,10 +30,10 @@ description: Teaching
 [[syllabus](http://mangonnet.com/assets/fall2018_advanced.pdf)] <span style="color:maroon">TF mean score: 4.81/5</span>
 
 **Design and Analysis of Sample Surveys**. Spring 2017. Instructor: Andrew Gelman.<br>
-[[syllabus](http://mangonnet.com/assets/sring2017_surveys.pdf)] <span style="color:maroon">TF mean score: 4.20/5</span>
+[[syllabus](http://mangonnet.com/assets/spring2017_surveys.pdf)] <span style="color:maroon">TF mean score: 4.20/5</span>
 
 **Introduction to Comparative Politics**. Spring 2016 and 2015. Instructor: Kimuli Kasara (Spring 2016) and Hande Mutlu-Eren (Spring 2015)<br>
-[[syllabus](http://mangonnet.com/assets/fall2015_introcp.pdf)] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.13 (2015)</span>
+[[syllabus](http://mangonnet.com/assets/spring2015_introcp.pdf)] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.13 (2015)</span>
 
 **Latin American Politics: Democracy, Representation, and the Rule of Law**. Fall 2016, 2015, and 2014. Instructor: M. Victoria Murillo.<br>
 [[syllabus](http://mangonnet.com/assets/fall2016_latam.pdf)] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.25/5 (2015) 4.52/5 (2014)</span>
