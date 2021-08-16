@@ -4,8 +4,7 @@ title:
 description: Teaching
 ---
 
-Please email me for complete teaching evaluations and recitation materials.
-
+<font size="2">Please email me for complete teaching evaluations and recitation materials.</font>
 
 <br> 
 <br> 
