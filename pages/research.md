@@ -15,11 +15,14 @@ description: Research
 [**Competitiveness, Partisanship, and Subnational Protest in Argentina**](http://mangonnet.com/assets/am_cps2013.pdf) (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919.<br>
 
 
+---
+
+
 ### <a name="Working Papers"></a>Working Papers
 
-**How Emancipation Drives Property Rights** (available on request)
-* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association
-* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation
+**How Emancipation Drives Property Rights** (available on request).
+* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
+* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation.
 
 
 
