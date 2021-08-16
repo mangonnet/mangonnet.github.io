@@ -6,9 +6,8 @@ description: Teaching
 
 Please email me for complete teaching evaluations and recitation materials.
 
-
----
-
+<br> 
+<br> 
 
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
 
