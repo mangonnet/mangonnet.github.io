@@ -13,7 +13,7 @@ description: Teaching
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
 
 **Comparative Government MPhil Core Course**. Term 2020--2021. Course director: Robin Harding.<br> 
-[Syllabus]
+[[syllabus](http://mangonnet.com/assets/ay20202021_compgov.pdf)]
 
 
 ---
@@ -22,22 +22,22 @@ description: Teaching
 #### <a name="Columbia University (Teaching Fellow)"></a>Columbia University (Teaching Fellow)
 
 **Principles of Quantitative Political Research**. Fall 2019. Instructor: Robert Shapiro.<br> 
-[Syllabus] <span style="color:maroon">TF mean score: 4.67/5</span>
+[[syllabus](http://mangonnet.com/assets/fall2019_principles.pdf)] <span style="color:maroon">TF mean score: 4.67/5</span>
 
 **Data Analysis and Statistics for Political Science Research**. Spring 2019. Instructor: Michael Parrot.<br>
-[Syllabus] <span style="color:maroon">TF mean score: N/A (no recitation sections)</span>
+[[syllabus](http://mangonnet.com/assets/spring2019_data.pdf)] <span style="color:maroon">TF mean score: N/A (no recitation sections)</span>
 
 **Advanced Regression Modeling**. Fall 2018. Instructor: Andrew Gelman.<br>
-[Syllabus] <span style="color:maroon">TF mean score: 4.81/5</span>
+[[syllabus](http://mangonnet.com/assets/fall2018_advanced.pdf)] <span style="color:maroon">TF mean score: 4.81/5</span>
 
 **Design and Analysis of Sample Surveys**. Spring 2017. Instructor: Andrew Gelman.<br>
-[Syllabus] <span style="color:maroon">TF mean score: 4.20/5</span>
+[[syllabus](http://mangonnet.com/assets/sring2017_surveys.pdf)] <span style="color:maroon">TF mean score: 4.20/5</span>
 
 **Introduction to Comparative Politics**. Spring 2016 and 2015. Instructor: Kimuli Kasara (Spring 2016) and Hande Mutlu-Eren (Spring 2015)<br>
-[Syllabus] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.13 (2015)</span>
+[[syllabus](http://mangonnet.com/assets/fall2015_introcp.pdf)] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.13 (2015)</span>
 
 **Latin American Politics: Democracy, Representation, and the Rule of Law**. Fall 2016, 2015, and 2014. Instructor: M. Victoria Murillo.<br>
-[Syllabus] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.25/5 (2015) 4.52/5 (2014)</span>
+[[syllabus](http://mangonnet.com/assets/fall2016_latam.pdf)] <span style="color:maroon">TF mean score: 4.87/5 (2016) 4.25/5 (2015) 4.52/5 (2014)</span>
 
 
 ---
