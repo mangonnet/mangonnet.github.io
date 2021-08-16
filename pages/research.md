@@ -7,8 +7,8 @@ description: Research
 
 ### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles	
 
-Mangonnet, J. and Murillo, M. V. 2019. **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**. Forthcoming at _Comparative Political Studies_.<br>
-[draft](http://mangonnet.com/assets/v062019_mm_p.pdf) &#x7c; [appendix](http://mangonnet.com/assets/v062019_mm_a.pdf) &#x7c; [active citations](http://mangonnet.com/poainterviews/)
+[Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013](http://mangonnet.com/assets/v062019_mm_p.pdf) (with M. Victoria Murillo). _Comparative Political Studies_ 53(8), 1223-1258. <br>
+[Online Appendix](http://mangonnet.com/assets/v062019_mm_a.pdf) &#x7c; [Active Citations](http://mangonnet.com/poainterviews/)
 
 Mangonnet, J., Murillo, M. V, and J. M. Rubio. 2018. **Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015**. _Latin American Politics and Society_ 60(8), 27--53.<br>
 [article](http://mangonnet.com/assets/mmr_article_laps2018.pdf) &#x7c; [appendix](http://mangonnet.com/assets/mmr_appendix_laps2018.pdf) &#x7c; [replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ)
