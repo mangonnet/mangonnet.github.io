@@ -16,9 +16,7 @@ description: Research
 [[pdf](http://mangonnet.com/assets/v072021_kmu_p.pdf)] [[appendix](http://mangonnet.com/assets/v072021_kmu_a.pdf)] [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ)]
 
 **Competitiveness, Partisanship, and Subnational Protest in Argentina** (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919. <br>
-[[pdf](http://mangonnet.com/assets/am_cps2013.pdf)] 
-- in Spanish: "Los Determinantes Electorales y Partidarios de la Beligerancia Popular." 2017. _Revista SAAP_ 11(1), 11--34.<br> 
-[[pdf](http://mangonnet.com/assets/ma_saap2017.pdf)]
+[[pdf](http://mangonnet.com/assets/am_cps2013.pdf)] [[in Spanish](http://mangonnet.com/assets/ma_saap2017.pdf)]
 
 
 ---
