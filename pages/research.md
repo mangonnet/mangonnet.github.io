@@ -10,13 +10,13 @@ description: Research
 [[paper](http://mangonnet.com/assets/v072021_kmu_p.pdf)] [[appendix](http://mangonnet.com/assets/v072021_kmu_a.pdf)] 
 
 **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013** (with M. Victoria Murillo). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
-[[journal](https://journals.sagepub.com/doi/full/10.1177/0010414019897417)] [[pre-print](http://mangonnet.com/assets/v062019_mm_p.pdf)] [[supplementary appendix](http://mangonnet.com/assets/v062019_mm_a.pdf)] [[appendix](http://mangonnet.com/assets/v072021_kmu_a.pdf)] [active citations](http://mangonnet.com/poainterviews/)
+[[journal](https://journals.sagepub.com/doi/full/10.1177/0010414019897417)] [[pre-print](http://mangonnet.com/assets/v062019_mm_p.pdf)] [[appendix](http://mangonnet.com/assets/v062019_mm_a.pdf)] [[active citations](http://mangonnet.com/poainterviews/)]
 
 **Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015** (with M. Victoria Murillo and Julia M. Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53.<br> [[pdf](http://mangonnet.com/assets/v072021_kmu_p.pdf)] [[appendix](http://mangonnet.com/assets/v072021_kmu_a.pdf)] 
 
 
 **Competitiveness, Partisanship, and Subnational Protest in Argentina** (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919. <br>
-[pdf](http://mangonnet.com/assets/am_cps2013.pdf)
+[[pdf](http://mangonnet.com/assets/am_cps2013.pdf)]
 
 
 ---
@@ -25,8 +25,8 @@ description: Research
 #### <a name="Working Papers"></a>Working Papers
 
 **How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
-* Winner of the 2021 _Mancur Olson Award_ for the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
-* Winner of the 2019 _Lanahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation.<br>
+* <span style="color:maroon">Winner of the 2021 _Mancur Olson Award_ for the Best Dissertation in Political Economy in the previous two years, American Political Science Association</span>.
+* <span style="color:maroon">Winner of the 2019 _Lanahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation</span>.
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
