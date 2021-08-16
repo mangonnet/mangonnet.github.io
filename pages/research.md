@@ -6,8 +6,7 @@ description: Research
 
 ### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
-#### Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_
-[[draft]](http://mangonnet.com/assets/v062018_kmu_p.pdf)[[supplementary appendix]](http://mangonnet.com/assets/v062018_kmu_p.pdf)[[replication data]](http://mangonnet.com/assets/v062018_kmu_p.pdf) <br>
+[**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas**](http://mangonnet.com/assets/v062018_kmu_p.pdf) (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_. <br>
 
 [**Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**](http://mangonnet.com/assets/v062019_mm_p.pdf) (with M. Victoria Murillo). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
 
@@ -22,14 +21,19 @@ description: Research
 ### <a name="Working Papers"></a>Working Papers
 
 **How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
-* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
-* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation. <br>
+\* Winner of the 2021 _Mancur Olson Award_ to the Best Dissertation in Political Economy in the previous two years, American Political Science Association.
+\* Winner of the 2019 _Lahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation. <br>
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).
 
 **Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Liliana Rocío Duarte, Germán Feierherd, and M. Victoria Murillo). _Revise & Resubmit_.
 
 **Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera, available on request).
+
+
+---
+
+### <a name="Working Papers"></a>Work in Progress
 
 
 
