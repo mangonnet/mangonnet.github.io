@@ -6,7 +6,7 @@ description: Research
 
 ### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
-##### Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_
+#### Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_
 [[draft]](http://mangonnet.com/assets/v062018_kmu_p.pdf)[[supplementary appendix]](http://mangonnet.com/assets/v062018_kmu_p.pdf)[[replication data]](http://mangonnet.com/assets/v062018_kmu_p.pdf) <br>
 
 [**Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013**](http://mangonnet.com/assets/v062019_mm_p.pdf) (with M. Victoria Murillo). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
