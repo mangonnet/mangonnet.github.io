@@ -4,11 +4,6 @@ title:
 description: Teaching
 ---
 
-<font size="2">Please email me for complete teaching evaluations and recitation materials.</font>
-
-<br> 
-<br> 
-
 
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
 
@@ -20,6 +15,10 @@ description: Teaching
 
 
 #### <a name="Columbia University (Teaching Fellow)"></a>Columbia University (Teaching Fellow)
+
+<font size="2">Please email me for complete teaching evaluations and recitation materials.</font>
+
+<br>
 
 **Principles of Quantitative Political Research**. Fall 2019. Instructor: Robert Shapiro.<br> 
 [[syllabus](http://mangonnet.com/assets/fall2019_principles.pdf)] <span style="color:maroon">TF mean score: 4.67/5</span>
