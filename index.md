@@ -5,7 +5,7 @@ description: Ph.D. in Political Science, Columbia University | Prize Postdoctora
 keywords: 
 ---
 
-## Welcome
+### Welcome
 
 I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. My research focuses on comparative politics and historical political economy, with an emphasis on how states and societies create property rights institutions and how those institutions shape power resources, norms, and conflict. My primary regional focus is Latin America.  
 
