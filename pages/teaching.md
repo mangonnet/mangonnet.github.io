@@ -53,6 +53,6 @@ description: Teaching
 
 
 <img src="http://mangonnet.com/assets/publpics/field_para.png"/>
-<font size="2">Forged sales contract of public land, Pará, Brazil (from .</font>
+<font size="2">Forged sales contract of public land, Pará, Brazil ("Violência e Grilagem," Girolamo D. Treccani).</font>
 
 
