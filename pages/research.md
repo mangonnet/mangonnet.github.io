@@ -45,9 +45,11 @@ description: Research
 
 **Do Property Rights Lead to More Engaged Citizens? Evidence from a Land Lottery in Argentina** (with Horacio Larreguy and Antonella Bandiera).<br>
 
-**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera).<br>
+**Property Rights and Political Engagement in Colombia and Peru** (with Jacob Kopas).<br>
 
 **Weapons of the Strong: Immobile Capital, Leftist Threats, and Cadastral Fraud in Brazil**.<br>
+
+**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera).<br>
 
 **Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil**.<br>
 
