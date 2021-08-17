@@ -5,13 +5,6 @@ description: Research
 ---
 
 
-<img src="http://mangonnet.com/assets/publpics/field_chaco.png"/>
-<font size="2">Local peasant cooperative in Chaco, Argentina.</font>
-
-
-
----
-
 
 #### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
@@ -63,9 +56,11 @@ description: Research
 **Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil**.<br>
 
 
+---
 
 
-
+<img src="http://mangonnet.com/assets/publpics/field_asuncion.png"/>
+<font size="2">Peasant grafitti in Asunción, Paraguay.</font>
 
 
 
