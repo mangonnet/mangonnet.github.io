@@ -56,7 +56,7 @@ description: Research
 
 ---
 
-<img src="http://mangonnet.com/assets/publpics/asuncion.png"/>
+<img src="http://mangonnet.com/assets/publpics/asuncion.jpg"/>
 
 
 
