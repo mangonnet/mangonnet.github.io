@@ -6,7 +6,7 @@ description: Research
 
 
 <img src="http://mangonnet.com/assets/publpics/field_chaco.png"/>
-<font size="2">Peasant grafitti in Asunción, Paraguay.</font>
+<font size="2">Local peasant cooperative in Chaco, Argentina.</font>
 
 
 
