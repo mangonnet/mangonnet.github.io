@@ -28,7 +28,7 @@ keywords:
 
 
 <img src="http://mangonnet.com/assets/publpics/field_minas.png"/>
-<font size="2">Registered landowners, Ouro Preto, Minas Gerais, Brazil.</font>
+<font size="2">Parish ledger of registered landowners in 1855, Ouro Preto, Minas Gerais, Brazil (Arquivo Público Mineiro).</font>
 
 
 
