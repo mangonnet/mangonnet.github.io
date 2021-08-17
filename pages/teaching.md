@@ -52,7 +52,7 @@ description: Teaching
 ---
 
 
-<img src="http://mangonnet.com/assets/publpics/field_para.png"/>
-<font size="2">Forged sales contract of public land, Pará, Brazil ("Violência e Grilagem," Girolamo D. Treccani).</font>
+<img src="http://mangonnet.com/assets/publpics/field_asuncion.png"/>
+<font size="2">Peasant grafitti in Asunción, Paraguay.</font>
 
 
