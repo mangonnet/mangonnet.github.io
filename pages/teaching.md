@@ -5,6 +5,14 @@ description: Teaching
 ---
 
 
+<img src="http://mangonnet.com/assets/publpics/field_para.png"/>
+<font size="2">Forged sales contract of land in Pará, Brazil.</font>
+
+
+
+---
+
+
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
 
 **Comparative Government MPhil Core Course**. Term 2020--2021. Course director: Robin Harding.<br> 
