@@ -5,7 +5,7 @@ description: Research
 ---
 
 
-<img src="http://mangonnet.com/assets/publpics/PY_1.png"/>
+<img src="http://mangonnet.com/assets/publpics/field_chaco.png"/>
 <font size="2">Peasant grafitti in Asunción, Paraguay.</font>
 
 
