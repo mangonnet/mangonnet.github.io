@@ -4,6 +4,13 @@ title:
 description: Research
 ---
 
+
+<img src="http://mangonnet.com/assets/publpics/PY_1.png"/>
+
+
+---
+
+
 #### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
 **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_. <br> 
@@ -54,9 +61,7 @@ description: Research
 **Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil**.<br>
 
 
----
 
-<img src="http://mangonnet.com/assets/publpics/PY_1.png"/>
 
 
 
