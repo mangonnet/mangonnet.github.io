@@ -5,14 +5,6 @@ description: Teaching
 ---
 
 
-<img src="http://mangonnet.com/assets/publpics/field_para.png"/>
-<font size="2">Forged sales contract of land in Pará, Brazil.</font>
-
-
-
----
-
-
 #### <a name="University of Oxford (Tutor)"></a>University of Oxford (Tutor)
 
 **Comparative Government MPhil Core Course**. Term 2020--2021. Course director: Robin Harding.<br> 
@@ -55,5 +47,12 @@ description: Teaching
 **Public Policy**, Universidad de San Andrés. 2013. <br>
 **Political Sociology**, Universidad de Buenos Aires. 2010. <br>
 **Introduction to Comparative Politics**, Universidad del Salvador. 2008. <br>
+
+
+---
+
+
+<img src="http://mangonnet.com/assets/publpics/field_para.png"/>
+<font size="2">Forged sales contract of public land, Pará, Brazil (from .</font>
 
 
