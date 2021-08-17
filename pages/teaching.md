@@ -42,7 +42,7 @@ description: Teaching
 ---
 
 
-#### <a name="In Argentina (Teaching Assistant):"></a>In Argentina (Teaching Assistant):
+#### <a name="In Argentina (Teaching Assistant)"></a>In Argentina (Teaching Assistant)
 
 **Public Policy**, Universidad de San Andrés. 2013. <br>
 **Political Sociology**, Universidad de Buenos Aires. 2010. <br>
