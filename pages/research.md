@@ -7,7 +7,7 @@ description: Research
 
 #### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
-**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with [Jacob Kopas](https://earthjustice.org/about/staff/jacob-kopas) and [Johannes Urpelainen](https://earthjustice.org/about/staff/jacob-kopas)). Conditionally accepted at _The Journal of Politics_. <br> 
+**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with [Jacob Kopas](https://earthjustice.org/about/staff/jacob-kopas) and [Johannes Urpelainen](https://johannesu.com)). Conditionally accepted at _The Journal of Politics_. <br> 
 [[paper](http://mangonnet.com/assets/v082021_kmu_p.pdf)] [[appendix](http://mangonnet.com/assets/v082021_kmu_a.pdf)] 
 
 **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
@@ -31,10 +31,10 @@ description: Research
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
-**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Germán Feierherd, Liliana Rocío Duarte, and M. Victoria Murillo). _Revise & Resubmit_.<br>
+**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with [Germán Feierherd](http://feierherd.github.io), Liliana Rocío Duarte, and [M. Victoria Murillo](https://mariavictoriamurillo.com)). _Revise & Resubmit_.<br>
 [[paper](http://mangonnet.com/assets/v042021_mfdrm_p.pdf)] [[appendix](http://mangonnet.com/assets/v042021_mfdrm_a.pdf)]
 
-**Economic Prosperity and Rural Unrest in the Twenty-First Century** (with M. Victoria Murillo).<br>
+**Economic Prosperity and Rural Unrest in the Twenty-First Century** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)).<br>
 
 
 ---
@@ -42,15 +42,15 @@ description: Research
 
 #### <a name="Working in Progress"></a>Work in Progress
 
-**Property Rights to Exclude Emancipated Slaves in the Postbellum South** (with Elena Barham).<br>
+**Property Rights to Exclude Emancipated Slaves in the Postbellum South** (with [Elena Barham](https://www.elenabarham.com)).<br>
 
-**Do Property Rights Lead to More Engaged Citizens? Evidence from a Land Lottery in Argentina** (with Horacio Larreguy and Antonella Bandiera).<br>
+**Do Property Rights Lead to More Engaged Citizens? Evidence from a Land Lottery in Argentina** (with [Horacio Larreguy](https://sites.google.com/site/hlarreguy/) and [Antonella Bandiera](https://www.antonellabandiera.com)).<br>
 
-**Property Rights and Political Engagement in Colombia and Peru** (with Jacob Kopas).<br>
+**Property Rights and Political Engagement in Colombia and Peru** (with [Jacob Kopas](https://earthjustice.org/about/staff/jacob-kopas)).<br>
 
 **Weapons of the Strong: Immobile Capital, Leftist Threats, and Cadastral Fraud in Brazil**.<br>
 
-**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with Horacio Larreguy and Antonella Bandiera).<br>
+**Family Ties, Corruption, and Authoritarian Distribution: Evidence from Paraguay** (with [Horacio Larreguy](https://sites.google.com/site/hlarreguy/) and [Antonella Bandiera](https://www.antonellabandiera.com)).<br>
 
 **Can Epidemics Foster State Capacity? Historical Evidence from the Measles Outbreak in Colonial Brazil**.<br>
 
@@ -58,7 +58,7 @@ description: Research
 ---
 
 <img src="http://mangonnet.com/assets/publpics/field_para.png"/>
-<font size="2">Forged sales contract of public land, Pará, Brazil ("Violência e Grilagem," Girolamo D. Treccani).</font>
+<font size="2">Forged sales contract of public land, Pará, Brazil (``Violência e Grilagem,'' Girolamo D. Treccani).</font>
 
 
 
