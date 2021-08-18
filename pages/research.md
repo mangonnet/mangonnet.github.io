@@ -7,16 +7,16 @@ description: Research
 
 #### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
-**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with Jacob Kopas and Johannes Urpelainen). Conditionally accepted at _The Journal of Politics_. <br> 
+**Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with [Jacob Kopas](https://earthjustice.org/about/staff/jacob-kopas) and [Johannes Urpelainen](https://earthjustice.org/about/staff/jacob-kopas)). Conditionally accepted at _The Journal of Politics_. <br> 
 [[paper](http://mangonnet.com/assets/v082021_kmu_p.pdf)] [[appendix](http://mangonnet.com/assets/v082021_kmu_a.pdf)] 
 
-**Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013** (with M. Victoria Murillo). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
+**Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
 [[journal](https://journals.sagepub.com/doi/full/10.1177/0010414019897417)] [[pre-print](http://mangonnet.com/assets/v062019_mm_p.pdf)] [[appendix](http://mangonnet.com/assets/v062019_mm_a.pdf)] [[active citations](http://mangonnet.com/poainterviews/)]
 
-**Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015** (with M. Victoria Murillo and Julia M. Rubio). 2018. _Latin American Politics and Society_ 60(8), 27--53.<br> 
+**Local Economic Voting and the Agricultural Boom in Argentina, 2007-2015** (with [M. Victoria Murillo](https://mariavictoriamurillo.com) and [Julia M. Rubio](https://juliarubio.com.ar)). 2018. _Latin American Politics and Society_ 60(8), 27--53.<br> 
 [[pdf](http://mangonnet.com/assets/mmr_laps2018_p.pdf)] [[appendix](http://mangonnet.com/assets/mmr_laps2018_a.pdf)] [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PQHGIJ)]
 
-**Competitiveness, Partisanship, and Subnational Protest in Argentina** (with Moises Arce). 2013. _Comparative Political Studies_ 46(8), 895--919. <br>
+**Competitiveness, Partisanship, and Subnational Protest in Argentina** (with [Moises Arce](https://stonecenter.tulane.edu/articles/detail/2978/Moises-Arce)). 2013. _Comparative Political Studies_ 46(8), 895--919. <br>
 [[pdf](http://mangonnet.com/assets/am_cps2013.pdf)] [[in Spanish](http://mangonnet.com/assets/ma_saap2017.pdf)]
 
 
@@ -31,7 +31,7 @@ description: Research
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
-**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Liliana Rocío Duarte, Germán Feierherd, and M. Victoria Murillo). _Revise & Resubmit_.<br>
+**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with Germán Feierherd, Liliana Rocío Duarte, and M. Victoria Murillo). _Revise & Resubmit_.<br>
 [[paper](http://mangonnet.com/assets/v042021_mfdrm_p.pdf)] [[appendix](http://mangonnet.com/assets/v042021_mfdrm_a.pdf)]
 
 **Economic Prosperity and Rural Unrest in the Twenty-First Century** (with M. Victoria Murillo).<br>
