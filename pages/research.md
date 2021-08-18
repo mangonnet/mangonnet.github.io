@@ -31,7 +31,7 @@ description: Research
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
-**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with [Germán Feierherd](http://feierherd.github.io), Liliana Rocío Duarte, and [M. Victoria Murillo](https://mariavictoriamurillo.com)). _Revise & Resubmit_.<br>
+**Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with [Germán Feierherd](http://feierherd.github.io), [L. Rocío Duarte](https://scholar.google.com.py/citations?hl=en&user=oyu7h0IAAAAJ&view_op=list_works&sortby=pubdate), and [M. Victoria Murillo](https://mariavictoriamurillo.com)). _Revise & Resubmit_.<br>
 [[paper](http://mangonnet.com/assets/v042021_mfdrm_p.pdf)] [[appendix](http://mangonnet.com/assets/v042021_mfdrm_a.pdf)]
 
 **Economic Prosperity and Rural Unrest in the Twenty-First Century** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)).<br>
