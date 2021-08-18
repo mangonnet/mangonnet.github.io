@@ -7,7 +7,7 @@ keywords:
 
 ### Welcome
 
-I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. My research focuses on comparative politics and historical political economy, with an emphasis on how states and societies create property rights institutions and how those institutions shape power, norms, and conflict. My primary regional focus is Latin America.  
+I am a Prize Postdoctoral Research Fellow in Politics at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. My research focuses on comparative politics and historical political economy, with an emphasis on how states and societies create property rights institutions and how those institutions shape power, norms, and conflict. Other interests include distributive politics, contentious politics, and civil conflict. My primary regional focus is Latin America.  
 
 My book project, _Labor Emancipation and Property Rights Formation in the New World_, examines how the abolition of labor repressive institutions---such as slavery or the slave trade---influenced the creation of private property rights in land. It draws on unused archival documents from Imperial Brazil (1822-1889) collected during a year of fieldwork. The book is based on my dissertation, which won APSA's 2021 [Mancur Olson Award](https://www.politics.ox.ac.uk/news/jorge-mangonnet-wins-top-prize-for-dissertation-on-property-rights.html) for the Best Dissertation in Political Economy in the previous two years.
 
