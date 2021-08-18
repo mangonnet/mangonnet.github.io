@@ -27,7 +27,7 @@ description: Research
 
 **How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
 * <span style="color:maroon">Winner of the 2021 _Mancur Olson Award_ for the Best Dissertation in Political Economy in the previous two years, American Political Science Association</span>.
-* <span style="color:maroon">Winner of the 2019 _Lanahan_ Best Graduate Student Paper, Northeastern Political Science Assotiation</span>.
+* <span style="color:maroon">Winner of the 2019 _Lanahan Award_ for the Best Graduate Student Paper, Northeastern Political Science Assotiation</span>.
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 

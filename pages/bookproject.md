@@ -5,6 +5,7 @@ description: Jorge Mangonnet - Ph.D. Candidate in Political Science, Columbia Un
 keywords: 
 ---
 
+
 ### Labor Emancipation and Property Rights Formation
 
 
