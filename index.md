@@ -15,7 +15,8 @@ My academic work employs multi-method approaches that combine regression-type de
 
 I received my PhD in Political Science (with Departmental Distinction) from [Columbia University](https://polisci.columbia.edu) in 2020. I completed a Master's in Political Science at Universidad Torcuato Di Tella and a BA in Political Science at the Universidad del Salvador, both in Buenos Aires, Argentina.
 
-[<img src="http://mangonnet.com/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=7MjjXz0AAAAJ&hl=en)
+[<img src="http://mangonnet.com/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=7MjjXz0AAAAJ&hl=en) [<img src="http://mangonnet.com/icons/orcid.svg"/>](https://orcid.org/0000-0002-4340-6938?lang=en) [<img src="http://mangonnet.com/icons/orcid.svg"/>](https://github.com/mangonnet) [<img src="http://mangonnet.com/icons/twitter.svg"/>](https://twitter.com/jmangonnet)
+
 
 
 ---
