@@ -53,6 +53,6 @@ description: Teaching
 
 
 <img src="http://mangonnet.com/assets/publpics/field_udr.png"/>
-<font size="2">Propaganda of the Rural Democratic Union, Londrina, Brazil (CEDOC D. Tomás Balduino, CPT Nacional).</font>
+<font size="2">Propaganda of the Rural Democratic Union, São Paulo, Brazil (CEDOC D. Tomás Balduino, CPT Nacional).</font>
 
 
