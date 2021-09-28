@@ -58,5 +58,14 @@ I received my PhD in Political Science (with Departmental Distinction) from [Col
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   
   ga('create', 'UA-147560465-1', 'auto');
+  ga('require', 'ipMeta', {
+      serviceProvider: 'dimension1',
+      networkDomain: 'dimension2',
+      networkType: 'dimension3',
+  });
+  ga('ipMeta:loadNetworkFields');
   ga('send', 'pageview');
 </script>
+
+<!-- IpMeta must be included after Google Analytics -->
+<script async src="https://ipmeta.io/plugin.js"></script>
