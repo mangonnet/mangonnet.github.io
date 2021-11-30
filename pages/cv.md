@@ -4,7 +4,7 @@ title:
 description: CV
 ---
 
-View my CV [here](http://mangonnet.com/assets/cv_mangonnet_v202109.pdf).<br>
+View my CV [here](http://mangonnet.com/assets/cv_mangonnet_v202111.pdf).<br>
 
 
 ---
