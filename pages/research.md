@@ -8,7 +8,7 @@ description: Research
 #### <a name="Peer-Reviewed Articles"></a>Peer-Reviewed Articles
 
 **Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas** (with [Jacob Kopas](https://earthjustice.org/about/staff/jacob-kopas) and [Johannes Urpelainen](https://johannesu.com)). Forthcoming, _The Journal of Politics_. <br> 
-[[paper](http://mangonnet.com/assets/v112021_mku_p.pdf)] [[appendix](http://mangonnet.com/assets/v112021_mku_a.pdf)] [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N6LIMH)] 
+[[paper](http://mangonnet.com/assets/v122021_mku_p.pdf)] [[appendix](http://mangonnet.com/assets/v112021_mku_a.pdf)] [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N6LIMH)] 
 
 **Protests of Abundance: Distributive Conflict over Agricultural Rents during the Commodities Boom in Argentina, 2003-2013** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)). 2020. _Comparative Political Studies_ 53(8), 1223--1258. <br>
 [[journal](https://journals.sagepub.com/doi/full/10.1177/0010414019897417)] [[pre-print](http://mangonnet.com/assets/v062019_mm_p.pdf)] [[appendix](http://mangonnet.com/assets/v062019_mm_a.pdf)] [[active citations](http://mangonnet.com/poainterviews/)]
