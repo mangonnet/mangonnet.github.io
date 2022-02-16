@@ -25,14 +25,14 @@ description: Research
 
 #### <a name="Working Papers"></a>Working Papers
 
-**How Emancipation Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
+**Abolition Drives Property Rights: Theory and Evidence from Imperial Brazil** (available on request).
 * <span style="color:maroon">Winner of the 2021 _Mancur Olson Award_ for the Best Dissertation in Political Economy in the previous two years, American Political Science Association</span>.
 * <span style="color:maroon">Winner of the 2019 _Lanahan Award_ for the Best Graduate Student Paper, Northeastern Political Science Assotiation</span>.
 
 **Crafting Property Rights in Abundant Resources: Abolition, Land Tenure, and Elite Bargains in Imperial Brazil** (available on request).<br>
 
 **Peasant Resistance in Times of Economic Affluence: Lessons from Paraguay** (with [Germán Feierherd](http://feierherd.github.io), [L. Rocío Duarte](https://scholar.google.com.py/citations?hl=en&user=oyu7h0IAAAAJ&view_op=list_works&sortby=pubdate), and [M. Victoria Murillo](https://mariavictoriamurillo.com)) [R&R].<br>
-[[paper](http://mangonnet.com/assets/v042021_mfdrm_p.pdf)] [[appendix](http://mangonnet.com/assets/v042021_mfdrm_a.pdf)]
+[[paper](http://mangonnet.com/assets/v022022_mfdrm_p.pdf)] [[appendix](http://mangonnet.com/assets/v022022_mfdrm_a.pdf)]
 
 **Economic Prosperity and Rural Unrest in the Twenty-First Century** (with [M. Victoria Murillo](https://mariavictoriamurillo.com)).<br>
 
