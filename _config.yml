@@ -9,7 +9,7 @@ name                     : "Jorge Mangonnet"
 url                      : "https://mangonnet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/"
 repository               : "mangonnet/mangonnet.github.io"
-logo                     : "/assets/images/Dimensional V.png"
+logo                     : "/Dimensional V.png"
 
 # Analytics
 analytics:
