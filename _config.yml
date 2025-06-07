@@ -1,5 +1,5 @@
 # Theme Settings
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 
 # Site Settings
 locale                   : "en-US"
@@ -7,7 +7,7 @@ title                    : "Jorge Mangonnet"
 title_separator          : "-"
 name                     : "Jorge Mangonnet"
 url                      : "https://mangonnet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/"
+#baseurl                  : "/"
 repository               : "mangonnet/mangonnet.github.io"
 logo                     : "/assets/images/Dimensional V.png"
 
