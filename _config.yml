@@ -1,6 +1,7 @@
 # Theme Settings
 theme                    : jekyll-theme-minimal
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Jorge Mangonnet"
@@ -18,11 +19,10 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+
 sass:
   sass_dir: _sass
   style: compact # possible values: nested expanded compact compressed
-
-theme: jekyll-theme-minimal
 
 # Reading Files
 include:
