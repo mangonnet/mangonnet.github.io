@@ -1,7 +1,8 @@
 
 # Settings
 title: Jorge Mangonnet
-url: "https://mangonnet.github.io"
+url: "https://www.mangonnet.com"
+baseurl: ""
 description: 
 google_analytics: 
 show_downloads: true
