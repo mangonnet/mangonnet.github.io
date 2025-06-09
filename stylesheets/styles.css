@@ -51,14 +51,14 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#3498db;
+  color:#4682b4; /* optional: darker steel blue */
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#6d7993;
+  color:#4682b4; /* optional: darker steel blue */
   margin-top:-0.6em;
   display:block;
 }
@@ -270,4 +270,17 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+a {
+  color: #4682b4 !important; /* Dark steel blue */
+}
+
+a:visited {
+  color: #4682b4 !important;
+}
+
+a:hover,
+a:focus {
+  color: #315f86 !important; /* Slightly darker hover color, optional */
 }
