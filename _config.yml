@@ -1,12 +1,17 @@
-
-# Settings
+# Site settings
 title: Jorge Mangonnet
 url: "https://www.mangonnet.com"
 baseurl: ""
-description: 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-cayman
+description: "Jorge Mangonnet is an Assistant Professor of Political Science at Vanderbilt University. He studies comparative politics and political economy, focusing on property rights institutions, collective action, and rural politics in Latin America."
 
-gems:
+# Layout is provided by _layouts/default.html; no remote theme needed.
+plugins:
   - jekyll-mentions
+
+# Don't publish these
+exclude:
+  - "Claude outputs"
+  - README.md
+  - .travis.yml
+  - .editorconfig
+  - .gitattributes

@@ -38,3 +38,8 @@ Thumbs.db
 *.exe
 *.o
 *.so
+# Claude Cowork session outputs
+Claude outputs/
+
+# local backups of pre-redesign files
+_backup_*/
