@@ -467,3 +467,6 @@ img { max-width: 100%; display: block; }
 /* Short note under a publication (e.g., replication status) */
 .pub-note { margin: 12px 0 0; font-size: 14px; color: var(--ink-soft); line-height: 1.5; }
 .pub-note + .pub-actions { margin-top: 8px; }
+
+/* inline status next to a title, e.g. (under review) */
+.status-inline { font-family: var(--sans); font-weight: 400; font-size: 14.5px; color: var(--ink-muted); white-space: nowrap; }
